@@ -1,0 +1,47 @@
+{
+  "8K": {
+    "source_filename": "Broad_8K_Antibiotic_Activity_Dataset_Filtered_.csv",
+    "source_sha256": "2fac968e99dd09866f124376794c9628f4654441bcefe051dd0dc796e28c1c39",
+    "source_rows": 7997,
+    "saved_records": 125,
+    "hit_structures": 125,
+    "saved_input_filename": "8K_explorer_records.csv.gz",
+    "saved_input_sha256": "d14a59b206fb5433cbe0f71b62a01647ba19da8872cb5940b7126d2d0b068305"
+  },
+  "39K": {
+    "source_filename": "Broad_39K_Antibiotic_Activity_Dataset_Filtered.csv",
+    "source_sha256": "b8cf31da79a2a4627ff529d127c5cc4cb1a675525928b55c83a5dbe8033dc900",
+    "source_rows": 39300,
+    "saved_records": 19,
+    "hit_structures": 17,
+    "saved_input_filename": "39K_explorer_records.csv.gz",
+    "saved_input_sha256": "306e9e044383efaf20d8d273280a64222c5ca0508e978e0b869a147dd410789b"
+  },
+  "ECBD": {
+    "source_filename": "Formatted_ECBD_Antibiotic_Activity_Dataset_Filtered.csv",
+    "source_sha256": "524fadd4c3c38e6734c0aea19ec051c24bf8d28536ae445af75dc540223c799d",
+    "source_rows": 100763,
+    "saved_records": 3,
+    "hit_structures": 3,
+    "saved_input_filename": "ECBD_explorer_records.csv.gz",
+    "saved_input_sha256": "4b409c56eed5fa283f6dc975514c9615f07b35659be7bb5a80633f8cab8d4892"
+  },
+  "COADD": {
+    "source_filename": "COADD_Antibiotic_Activity_Dataset_Filtered.csv",
+    "source_sha256": "1fec637ea17e199126d50c08de7dd43dd5bfe1cae555df566ccfc52fb309cb23",
+    "source_rows": 185502,
+    "saved_records": 157,
+    "hit_structures": 88,
+    "saved_input_filename": "COADD_explorer_records.csv.gz",
+    "saved_input_sha256": "735f760b5a18c5b2ae238a5d5750225f9036a2c2118f085fff4dde6a9563ff26"
+  },
+  "PurchasedBroad": {
+    "source_filename": "All_PA_Screening_with_\u22066_and_WT_Strain_Activity.xlsx",
+    "source_sha256": "aff652646295a6d921347bb0c882ae200c9df9091357ecba4fd3c5c7088a6b0c",
+    "source_rows": 183,
+    "saved_records": 53,
+    "hit_structures": 53,
+    "saved_input_filename": "PurchasedBroad_explorer_records.csv.gz",
+    "saved_input_sha256": "9c8f7d9bb6112fe224347fcff578d3748252e8e1802b6637341ea9b06166d560"
+  }
+}

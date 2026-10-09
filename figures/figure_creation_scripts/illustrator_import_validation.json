@@ -1,0 +1,194 @@
+{
+  "application": "Adobe Illustrator 2026",
+  "verified_imports": 20,
+  "tested_sharing_collection_svgs": 18,
+  "existing_user_documents_preserved": true,
+  "label_import_correction": "Default SVG namespace and conventional xlink reference prefix.",
+  "controlled_figure_1c_test": {
+    "before_path_items": 39,
+    "after_path_items": 213,
+    "labels_visible_after_correction": true
+  },
+  "files": [
+    {
+      "file": "modified_subfigures_svg/Dataset comparison (WT and mutant hit counts).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 295,
+      "compound_path_items": 88,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "4e577603c3198675457109925328883063b350342403e6d997ad6a0f495beafe"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1e (Hit overlap).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 168,
+      "compound_path_items": 60,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "a5b60a6d5eeb961b69dac6a576a8f687aadcddd1a66059178aa03b60489443e2"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2a (ROC curves).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 258,
+      "compound_path_items": 68,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "3a247c0f691ff41116e9378a78d3fa2fddef04c84a021ec45720959a68b3f4de"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2d (Fitted property distributions).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 196,
+      "compound_path_items": 40,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "035b13b5a52bdf930b01c48eb9cfe139255d592816534a34d08b926a176256aa"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2c (Compound IC50 values).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 269,
+      "compound_path_items": 27,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "533b28c56a341875e4c6156bc6769b96a62ea7f1b93f22f419358314140d0b5f"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2 (Growth inhibition distributions).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 225,
+      "compound_path_items": 50,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "9e75410d2b4b3b2aa766ac91450f14dfc3016e4deae66ca872daddd90c741ce5"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1c (Strain hit counts).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 213,
+      "compound_path_items": 54,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "7ca508ce30795285be0073c039595346d23137894a395dc029219e4493318825"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1d (Hit intersections).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 297,
+      "compound_path_items": 74,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "adc2177b491e8f58e225333d516adae3994ab31eb4fc32f4cd9ef8ad17d30ab7"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1a (Screening workflow).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 463,
+      "compound_path_items": 63,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "90d602094134b8645245262445ba061a32d1b0f6dae198ae7f3f46831c7cbca4"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2b (Hit retrieval).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 593,
+      "compound_path_items": 78,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "5b9e3b616a8796389bc2aab8e34c43cca2dc966227b10a4779cf16ee0b8d9a09"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2f (Properties by growth inhibition).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 1052,
+      "compound_path_items": 109,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "679a84913bafa52a76a96e8af0ce08c753dbcec8366edfe5292515f60703aaeb"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2 (Compound structures and dose responses).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 1124,
+      "compound_path_items": 163,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "cc57d3df943bc68421a56df57d8db88e255ccdc48acbaeaf564a249367a969b6"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2e (Prediction scatter plots).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 1606,
+      "compound_path_items": 234,
+      "live_text_frames": 0,
+      "raster_items": 6,
+      "sha256": "31730acc20f2ce8a102943a2f6d235323f8ea851ab63dd86e5b5e2ae6ef89b99"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1g (8K COADD chemical space).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 106993,
+      "compound_path_items": 35,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "7fa5cb7927ccb0097bdbfc3f4e322a260908c9dfe983195f30891a9e1ae0ab1e"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1b (Replicate correlations).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 32974,
+      "compound_path_items": 381,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "bbc3be8f38eda030711d3732393b8ed248a0604c4697f3f656c1336f7e76ac23"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1f (8K Broad39K ECBD chemical space).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 146289,
+      "compound_path_items": 29,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "15985444c5afe03ad07aee6172c977d23f4f88267a8bc090370f4eb07d39cd9e"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 2 (Complete figure).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 5311,
+      "compound_path_items": 769,
+      "live_text_frames": 0,
+      "raster_items": 6,
+      "sha256": "41a308b79d0774d25a19d1632571f7a490418eec5b732216390068106f4316ae"
+    },
+    {
+      "file": "modified_subfigures_svg/Figure 1 (Complete figure).svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 287391,
+      "compound_path_items": 696,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "f56768c58279fff73d9c6cf46a82135d2c42d03fe4e023a0e8b59d678e5db780"
+    },
+    {
+      "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_od600_ic50.svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 418,
+      "compound_path_items": 79,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "d190253b8640e7e3ed1f5bd688aea4b35e2a2d798411dca3e2d51d2a5e36ff10"
+    },
+    {
+      "file": "methods/undesigned/tsne_102_delta6_model_compounds_with_filtered_8k/standardized_102_delta6_model_compounds_and_filtered_8k_tsne.svg",
+      "opened_and_exported_in_Adobe_Illustrator": true,
+      "path_items": 8215,
+      "compound_path_items": 40,
+      "live_text_frames": 0,
+      "raster_items": 0,
+      "sha256": "798c8ac9e573cf64477b1e43f5beea289f6920f50ce736d8d9fe8bc3a5e5d114"
+    }
+  ]
+}

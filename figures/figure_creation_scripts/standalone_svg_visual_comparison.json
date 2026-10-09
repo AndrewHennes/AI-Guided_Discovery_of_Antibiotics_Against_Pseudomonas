@@ -1,0 +1,306 @@
+[
+  {
+    "file": "Dataset comparison (WT and mutant hit counts).svg",
+    "shape": [
+      1037,
+      2103,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 1a (Screening workflow).svg",
+    "shape": [
+      358,
+      1155,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 1b (Replicate correlations).svg",
+    "shape": [
+      1050,
+      1050,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 1c (Strain hit counts).svg",
+    "shape": [
+      406,
+      384,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 1d (Hit intersections).svg",
+    "shape": [
+      406,
+      405,
+      4
+    ],
+    "changed_pixels": 420,
+    "changed_fraction": 0.002554278416347382,
+    "max_channel_difference": 3,
+    "mean_channel_difference": 0.0022501976524965032
+  },
+  {
+    "file": "Figure 1e (Hit overlap).svg",
+    "shape": [
+      388,
+      636,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 1f (8K Broad39K ECBD chemical space).svg",
+    "shape": [
+      912,
+      783,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 1g (8K COADD chemical space).svg",
+    "shape": [
+      912,
+      729,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2 (Compound structures and dose responses).svg",
+    "shape": [
+      514,
+      1659,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2 (Growth inhibition distributions).svg",
+    "shape": [
+      520,
+      642,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2a (ROC curves).svg",
+    "shape": [
+      519,
+      474,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2b (Hit retrieval).svg",
+    "shape": [
+      522,
+      630,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2c (Compound IC50 values).svg",
+    "shape": [
+      576,
+      894,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2d (Fitted property distributions).svg",
+    "shape": [
+      591,
+      573,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2e (Prediction scatter plots).svg",
+    "shape": [
+      708,
+      1437,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "Figure 2f (Properties by growth inhibition).svg",
+    "shape": [
+      681,
+      1083,
+      4
+    ],
+    "changed_pixels": 0,
+    "changed_fraction": 0.0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2 (Complete figure).svg",
+    "changed_pixels": 34,
+    "max_channel_difference": 8,
+    "mean_channel_difference": 5.404300070109839e-05,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1 (Complete figure).svg",
+    "changed_pixels": 177,
+    "max_channel_difference": 2,
+    "mean_channel_difference": 0.00022765793528505392,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_unfiltered/deepflux_unfiltered_coadd_delta5_hits_vs_inactive_roc_2a.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_one_per_COADD_ID_60_GI60_roc_2a.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_workbook_records_80_roc_2a.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/filtered_all_records_60_GI60_roc_2a.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/GI60_60_percent_cutoff_comparison_2a.svg",
+    "changed_pixels": 96,
+    "max_channel_difference": 6,
+    "mean_channel_difference": 0.0007232065059541098,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_all_records_60_GI60_roc_2a.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_repeated_hit_once_per_COADD_ID_80_roc_2a.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_and_unfiltered_80_percent_comparison_2a.svg",
+    "changed_pixels": 118,
+    "max_channel_difference": 5,
+    "mean_channel_difference": 0.0004986919555264879,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_workbook_records_60_GI60_roc_2a.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/tsne_102_delta6_model_compounds_with_8k_coadd_ecbd/standardized_102_delta6_model_compounds_with_8k_coadd_ecbd_tsne.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/tsne_102_delta6_model_compounds_with_filtered_8k/standardized_102_delta6_model_compounds_and_filtered_8k_tsne.svg",
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/supplied_efflux_rule_gaussian_percentile_plot_d.svg",
+    "changed_pixels": 715,
+    "max_channel_difference": 72,
+    "mean_channel_difference": 0.010790841999329084,
+    "fraction_pixels_difference_over_16": 0.0005996309963099631
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/current_vs_supplied_gaussian_percentile_comparison_d.svg",
+    "changed_pixels": 48,
+    "max_channel_difference": 84,
+    "mean_channel_difference": 0.002170305023923445,
+    "fraction_pixels_difference_over_16": 5.382775119617225e-05
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/current_8k_gaussian_percentile_plot_d.svg",
+    "changed_pixels": 715,
+    "max_channel_difference": 72,
+    "mean_channel_difference": 0.010790841999329084,
+    "fraction_pixels_difference_over_16": 0.0005996309963099631
+  }
+]

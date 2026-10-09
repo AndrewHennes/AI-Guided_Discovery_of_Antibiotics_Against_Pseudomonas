@@ -1,0 +1,582 @@
+[
+  {
+    "file": "modified_subfigures_svg/Dataset comparison (WT and mutant hit counts).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "6395143fb6f95f2ef9de03e2b215328e494be6667d601ee15e9a2922574ee4c1",
+    "after_sha256": "4e577603c3198675457109925328883063b350342403e6d997ad6a0f495beafe"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1 (Complete figure).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "7fae472414a72c8f9f912a039191790373578aff44ee1efd8e4dd7ed88aab89c",
+    "after_sha256": "f56768c58279fff73d9c6cf46a82135d2c42d03fe4e023a0e8b59d678e5db780"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1a (Screening workflow).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "f367bbd58a4abb83d0eb04ced630cf9ed112a47448b8bf1fafc5cc01af3a967a",
+    "after_sha256": "90d602094134b8645245262445ba061a32d1b0f6dae198ae7f3f46831c7cbca4"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1b (Replicate correlations).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "6d1ab497fb1fb09ba018f8e898a6a3af116f018efd2d946e950a325bfb5e81c7",
+    "after_sha256": "bbc3be8f38eda030711d3732393b8ed248a0604c4697f3f656c1336f7e76ac23"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1c (Strain hit counts).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "f816595a653f990da210f3f9c9c44326b63298584277a45a2375d9b2a9b83b89",
+    "after_sha256": "7ca508ce30795285be0073c039595346d23137894a395dc029219e4493318825"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1d (Hit intersections).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "0b61388f77b0e15da3cb07de4a966fcb80a72edaef1696f5fb3e7f260d28d9a3",
+    "after_sha256": "adc2177b491e8f58e225333d516adae3994ab31eb4fc32f4cd9ef8ad17d30ab7"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1e (Hit overlap).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "3ceaba75b367462843969cd04f066ecab3db99504a0d0f101b1cf0b02adc24f8",
+    "after_sha256": "a5b60a6d5eeb961b69dac6a576a8f687aadcddd1a66059178aa03b60489443e2"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1f (8K Broad39K ECBD chemical space).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "d50f4367631ef91db3d03dd7bf5e75b709384fe4dbfee530514fb59dbb91c25c",
+    "after_sha256": "15985444c5afe03ad07aee6172c977d23f4f88267a8bc090370f4eb07d39cd9e"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1g (8K COADD chemical space).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "60a7c50ca3dca04ee8d148c8771b4633aea947634c18b1b2503788270667a187",
+    "after_sha256": "7fa5cb7927ccb0097bdbfc3f4e322a260908c9dfe983195f30891a9e1ae0ab1e"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2 (Complete figure).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "92662e05829910b47ac1183270fd26efaecca98bbcae05a41160b63d33160678",
+    "after_sha256": "41a308b79d0774d25a19d1632571f7a490418eec5b732216390068106f4316ae"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2 (Compound structures and dose responses).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "6682501eda5fbd87cf067b6cdbb1c3e0cc16da41d34bfd200b86a9ad6e83aad7",
+    "after_sha256": "cc57d3df943bc68421a56df57d8db88e255ccdc48acbaeaf564a249367a969b6"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2 (Growth inhibition distributions).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "72e338f027487f3a8efb4760fbe01d5e4d151344877016e14e6ff7c792bafe0f",
+    "after_sha256": "9e75410d2b4b3b2aa766ac91450f14dfc3016e4deae66ca872daddd90c741ce5"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2a (ROC curves).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "8c8237d0e74af0e5b6fb673d4d449cdbd30989a6e7ccc48b60a5e12f5b80eed1",
+    "after_sha256": "3a247c0f691ff41116e9378a78d3fa2fddef04c84a021ec45720959a68b3f4de"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2b (Hit retrieval).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "d5857b6c422316075db22c7bb32dd0fb011534d79367864f56fc2677601f2750",
+    "after_sha256": "5b9e3b616a8796389bc2aab8e34c43cca2dc966227b10a4779cf16ee0b8d9a09"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2c (Compound IC50 values).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "df575b0161e1aa59836c1d567c03f6f2ae01b84946a1fbb43857d47daf7e1b99",
+    "after_sha256": "533b28c56a341875e4c6156bc6769b96a62ea7f1b93f22f419358314140d0b5f"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2d (Fitted property distributions).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "5fa22b4f6c8fb19d495b9abc808d3d551aa8b5ba0336bd84fc2ba1069a2894fd",
+    "after_sha256": "035b13b5a52bdf930b01c48eb9cfe139255d592816534a34d08b926a176256aa"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2e (Prediction scatter plots).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "c5e920df1c352461c4a6f9c9d64e15855d454f9409487ca4411d7cec7a31ebcb",
+    "after_sha256": "31730acc20f2ce8a102943a2f6d235323f8ea851ab63dd86e5b5e2ae6ef89b99"
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2f (Properties by growth inhibition).svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "3ab3703c3d23801175aac3b00dde2fe218e14f52a11dba766eb464c380d4314c",
+    "after_sha256": "679a84913bafa52a76a96e8af0ce08c753dbcec8366edfe5292515f60703aaeb"
+  },
+  {
+    "file": "methods/1a/antipseudomonal_compound_screening_workflow_a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "f367bbd58a4abb83d0eb04ced630cf9ed112a47448b8bf1fafc5cc01af3a967a",
+    "after_sha256": "90d602094134b8645245262445ba061a32d1b0f6dae198ae7f3f46831c7cbca4"
+  },
+  {
+    "file": "methods/1b/replicate_growth_inhibition_correlations_across_four_strains_b.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "6d1ab497fb1fb09ba018f8e898a6a3af116f018efd2d946e950a325bfb5e81c7",
+    "after_sha256": "bbc3be8f38eda030711d3732393b8ed248a0604c4697f3f656c1336f7e76ac23"
+  },
+  {
+    "file": "methods/1c/strain_specific_antibacterial_hit_counts_c.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "f816595a653f990da210f3f9c9c44326b63298584277a45a2375d9b2a9b83b89",
+    "after_sha256": "7ca508ce30795285be0073c039595346d23137894a395dc029219e4493318825"
+  },
+  {
+    "file": "methods/1d/strain_specific_antibacterial_hit_intersections_upset_d.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "0b61388f77b0e15da3cb07de4a966fcb80a72edaef1696f5fb3e7f260d28d9a3",
+    "after_sha256": "adc2177b491e8f58e225333d516adae3994ab31eb4fc32f4cd9ef8ad17d30ab7"
+  },
+  {
+    "file": "methods/1e/four_strain_antibacterial_hit_overlap_venn_e.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "3ceaba75b367462843969cd04f066ecab3db99504a0d0f101b1cf0b02adc24f8",
+    "after_sha256": "a5b60a6d5eeb961b69dac6a576a8f687aadcddd1a66059178aa03b60489443e2"
+  },
+  {
+    "file": "methods/1f/molecular_chemical_space_8k_broad39k_ecbd_tsne_f.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "d50f4367631ef91db3d03dd7bf5e75b709384fe4dbfee530514fb59dbb91c25c",
+    "after_sha256": "15985444c5afe03ad07aee6172c977d23f4f88267a8bc090370f4eb07d39cd9e"
+  },
+  {
+    "file": "methods/1g/molecular_chemical_space_8k_coadd_tsne_g.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "60a7c50ca3dca04ee8d148c8771b4633aea947634c18b1b2503788270667a187",
+    "after_sha256": "7fa5cb7927ccb0097bdbfc3f4e322a260908c9dfe983195f30891a9e1ae0ab1e"
+  },
+  {
+    "file": "methods/2_unlabeled_compound_examples/compound_structures_and_dose_responses_figure_2_unlabeled.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "6682501eda5fbd87cf067b6cdbb1c3e0cc16da41d34bfd200b86a9ad6e83aad7",
+    "after_sha256": "cc57d3df943bc68421a56df57d8db88e255ccdc48acbaeaf564a249367a969b6"
+  },
+  {
+    "file": "methods/2_unlabeled_growth_inhibition/growth_inhibition_cumulative_distributions_figure_2_unlabeled.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "72e338f027487f3a8efb4760fbe01d5e4d151344877016e14e6ff7c792bafe0f",
+    "after_sha256": "9e75410d2b4b3b2aa766ac91450f14dfc3016e4deae66ca872daddd90c741ce5"
+  },
+  {
+    "file": "methods/2a/deepflux_gi60_gi80_delta5_hits_vs_inactive_roc_a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "8c8237d0e74af0e5b6fb673d4d449cdbd30989a6e7ccc48b60a5e12f5b80eed1",
+    "after_sha256": "3a247c0f691ff41116e9378a78d3fa2fddef04c84a021ec45720959a68b3f4de"
+  },
+  {
+    "file": "methods/2a_unfiltered/deepflux_unfiltered_coadd_delta5_hits_vs_inactive_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "cad2dd2f3871aaf08f0f6712070edff1448e1963a03007ca3052a3fc6f909172",
+    "after_sha256": "d126b982d40d5789a42ea4b1e3f7d2e9053dd29f5f5eef9faddf65d3118c8320"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/GI60_60_percent_cutoff_comparison_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "42da9408322c64ef1efddfb985f5fc879368ecffb943a2a5c4081e708dd346ff",
+    "after_sha256": "b6474328053f3be796307cd605b2379ed3541f95dee9e1036dbee9a5d6623afd"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/filtered_all_records_60_GI60_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "9b046bdf763b4f2d11c93eade037fddbff1d712c1b3205fc15a6872fc43b77eb",
+    "after_sha256": "c9e25ccf7452f3152b3bf39b0a18d74f3f4d37f67e79692915fca33858baac44"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_all_records_60_GI60_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "d8f1f63ce218be33dd68dfd1216f07bbe56c4ae0b0db8ff64ff06db0813e7439",
+    "after_sha256": "ea4e27ff26d067a628e953f3ab51a950ba890222e988306af4c32d8bd0e6fb3c"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_all_records_80_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "cad2dd2f3871aaf08f0f6712070edff1448e1963a03007ca3052a3fc6f909172",
+    "after_sha256": "d126b982d40d5789a42ea4b1e3f7d2e9053dd29f5f5eef9faddf65d3118c8320"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_one_per_COADD_ID_60_GI60_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "a7dcd443b4da311fc25bae98c314dd85bd3ef8cad9b1a001dade2d10770d5894",
+    "after_sha256": "258164506db74317d53a7e6c3c8e8b3da6262e40df757b3ce2d6424af77d50c4"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_repeated_hit_once_per_COADD_ID_80_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "e8a88bdb2a404ef40dcf9a1d500a7422813c63df5f70e5b559ac07bda676865d",
+    "after_sha256": "0dd5b4f1d2604b6384734418048e5c6c31b9ce5bc70ccdc04f19f95eba396dfa"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_and_unfiltered_80_percent_comparison_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "a9ca04e772f4e90dc66ca67c23b1a2add3f70fddcfdb435ddbb44cf85554ed09",
+    "after_sha256": "618abc938bd9e734a7cce6cf668feb4bb470e2d8a5938bcf6194c50d64ef3416"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_workbook_records_60_GI60_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "ee7ea78571cfb93693d9a004d3d9c854d996df336eb8a0a8b12702889382c810",
+    "after_sha256": "fc9da41713e88030289ee66636689343d4f34a65f42089b0c03c75e40bb6a8f2"
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_workbook_records_80_roc_2a.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "e60f7a54a54f43e91dbd33c449661ac3fb604526b71a0a0dd63d1159310ea41f",
+    "after_sha256": "6a85c16e635e0de59a554e9f51f6132ce5df90d4ad05471aceb3feb6083e4f42"
+  },
+  {
+    "file": "methods/2b/ranked_compound_delta6_and_wild_type_hit_retrieval_b.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "d5857b6c422316075db22c7bb32dd0fb011534d79367864f56fc2677601f2750",
+    "after_sha256": "5b9e3b616a8796389bc2aab8e34c43cca2dc966227b10a4779cf16ee0b8d9a09"
+  },
+  {
+    "file": "methods/2c/compound_ic50_in_wild_type_and_delta6_strains_c.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "df575b0161e1aa59836c1d567c03f6f2ae01b84946a1fbb43857d47daf7e1b99",
+    "after_sha256": "533b28c56a341875e4c6156bc6769b96a62ea7f1b93f22f419358314140d0b5f"
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/current_8k_gaussian_percentile_plot_d.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "9e2b7c3e34e21e749c4f64460c30ac96cf1338f9011aaab9e338e1c71b7a282a",
+    "after_sha256": "1a68d105b37b95449935fb5317758ffe7c5a571f9ec33632ec8e359b8b9d8a69"
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/current_vs_supplied_gaussian_percentile_comparison_d.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "5bdd31ddac0ea372434016e2c236ca53d3d85e1398a761dcc0466139da70ded9",
+    "after_sha256": "961109670ca13e507b6dafe56bef18604eda5d3395fffe82c5529e7c83114234"
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/supplied_efflux_rule_gaussian_percentile_plot_d.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "66839c895e502f603baa8917fdccdb88c5efb644a5bf4136333e7ba7dfd238eb",
+    "after_sha256": "aa1c7211c73c1750e56c5aed49f708b214607c47eefe7467bee2b98bbb048d24"
+  },
+  {
+    "file": "methods/2d/gaussian_property_distributions_delta6_only_and_wild_type_hits_d.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "5fa22b4f6c8fb19d495b9abc808d3d551aa8b5ba0336bd84fc2ba1069a2894fd",
+    "after_sha256": "035b13b5a52bdf930b01c48eb9cfe139255d592816534a34d08b926a176256aa"
+  },
+  {
+    "file": "methods/2e/deepflux_efflux_score_compound_predictions_and_wild_type_hits_e.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "31730acc20f2ce8a102943a2f6d235323f8ea851ab63dd86e5b5e2ae6ef89b99",
+    "after_sha256": "31730acc20f2ce8a102943a2f6d235323f8ea851ab63dd86e5b5e2ae6ef89b99"
+  },
+  {
+    "file": "methods/2f/molecular_property_distributions_by_growth_inhibition_f.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "3ab3703c3d23801175aac3b00dde2fe218e14f52a11dba766eb464c380d4314c",
+    "after_sha256": "679a84913bafa52a76a96e8af0ce08c753dbcec8366edfe5292515f60703aaeb"
+  },
+  {
+    "file": "methods/dataset_hit_counts/unique_wt_and_mutant_pseudomonas_hit_counts_by_dataset.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "6395143fb6f95f2ef9de03e2b215328e494be6667d601ee15e9a2922574ee4c1",
+    "after_sha256": "4e577603c3198675457109925328883063b350342403e6d997ad6a0f495beafe"
+  },
+  {
+    "file": "methods/full_figure/antipseudomonal_screening_and_chemical_space_figure_1.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "7fae472414a72c8f9f912a039191790373578aff44ee1efd8e4dd7ed88aab89c",
+    "after_sha256": "f56768c58279fff73d9c6cf46a82135d2c42d03fe4e023a0e8b59d678e5db780"
+  },
+  {
+    "file": "methods/full_figure_2/deepflux_predictions_and_hit_properties_figure_2.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "92662e05829910b47ac1183270fd26efaecca98bbcae05a41160b63d33160678",
+    "after_sha256": "41a308b79d0774d25a19d1632571f7a490418eec5b732216390068106f4316ae"
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_od600_ic50.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "81c7d0ed3f61aa2d8ecadd3fc63bf6416e4b44af43ac4a92a3913c237c236a37",
+    "after_sha256": "d190253b8640e7e3ed1f5bd688aea4b35e2a2d798411dca3e2d51d2a5e36ff10"
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_od600_individual_row_fits.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "cf8f57697172329e7a5172f011558f3b1f5963d16bda07fd966308115e069524",
+    "after_sha256": "2329da2f5b9a8bcdbb1c75287f4cec57a43dc425a3b4e5670517c076c9205ddc"
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_30min_ic50.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "6d59ce8b7f1d58131e06e40c49892b62b9ff32e4d97ba5b83563b5d9485fd096",
+    "after_sha256": "88fb422f67a326d83331a7a1354f8f30ce1652885b0958e1b4b3f21aa6ba1a48"
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_30min_individual_row_fits.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "2b8dfdb403412e312cefe14884f5219479f7247319daf9434bd416d947e7b012",
+    "after_sha256": "1bc8b4369a34ab64ea320846f3d98bd40d4c93dded6f5db8d494388f5936516d"
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_60min_ic50.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "38a8b7edb0d1448a85583699e5b418918f23c8e6c53ea1971b667aec2c429c5d",
+    "after_sha256": "b043df2efc20ea53c024ce57ec1d87871d273507ca9f55ad356acae8ef789f74"
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_60min_individual_row_fits.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "4bb4d4c1a0c28b68360384366f153e99ef63b4e69ac26d9cfc9055ffb4afcc55",
+    "after_sha256": "3f56b400bf60ca7da234f75c04c071ebedc8fbb7d4bfd1f752fa5c637fa192f8"
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_three_readout_ic50_comparison.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "8fd683c01a7289c1ccdacf8d6f6fabfee0bac761704d02e210e4569c9372ebf2",
+    "after_sha256": "f65029d60d5d36b2680c6c030ff88ef11f75e8363bf8a67ef6324ad0f23fd586"
+  },
+  {
+    "file": "methods/undesigned/tsne_102_delta6_model_compounds_with_8k_coadd_ecbd/standardized_102_delta6_model_compounds_with_8k_coadd_ecbd_tsne.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "d98b88f456f38952a15914704858bb18d6c4c49aa185a34c01a9000aab1b7f9a",
+    "after_sha256": "aa82bf5a507b036164d3ce54773a6821141170bf526e14de4e2f798ec76f6ede"
+  },
+  {
+    "file": "methods/undesigned/tsne_102_delta6_model_compounds_with_filtered_8k/standardized_102_delta6_model_compounds_and_filtered_8k_tsne.svg",
+    "xml_artwork_identical": true,
+    "default_svg_namespace": true,
+    "standard_xlink_prefix": true,
+    "masks": 0,
+    "clipping_paths": 0,
+    "before_sha256": "798c8ac9e573cf64477b1e43f5beea289f6920f50ce736d8d9fe8bc3a5e5d114",
+    "after_sha256": "798c8ac9e573cf64477b1e43f5beea289f6920f50ce736d8d9fe8bc3a5e5d114"
+  }
+]

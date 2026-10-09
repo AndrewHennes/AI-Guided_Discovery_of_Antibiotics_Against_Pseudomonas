@@ -1,0 +1,6 @@
+numpy==2.3.4
+pandas==2.3.3
+scipy==1.16.2
+matplotlib==3.10.7
+rdkit==2025.9.1
+PyMuPDF==1.28.2

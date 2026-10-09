@@ -1,0 +1,38 @@
+{
+  "coadd_original_columns_preserved": true,
+  "coadd_dataset_variant": "filtered",
+  "coadd_rows": 185502,
+  "scored_rows": 185494,
+  "unscored_rows": 8,
+  "roc_all_compound_IDs_scored": true,
+  "roc_positive": "Delta5_hit",
+  "roc_negative": "inactive_in_both_strains",
+  "roc_analysis_unit": "one_per_COADD_compound_ID",
+  "roc_growth_inhibition_cutoff_percent": 80,
+  "roc_counts": {
+    "Delta5_hit": 76,
+    "inactive_in_both_strains": 32228
+  },
+  "roc_eligible_source_records": 34661,
+  "roc_extra_records_removed": 2357,
+  "roc_compound_IDs_unique": true,
+  "labels_structures_and_scores_agree_within_ID": true,
+  "roc_positive_includes_wt_and_delta5_hit_compound_IDs": 1,
+  "independently_checked_pairwise_aucs": {
+    "GI60": 0.7691685229581339,
+    "GI80": 0.7502314920663954
+  },
+  "rendered_and_full_coordinate_auc_match": true,
+  "property_cohort_counts": {
+    "Delta6_only_active": 116,
+    "WT_and_Delta6_active": 8
+  },
+  "property_fits_unchanged": true,
+  "panel_e": {
+    "plot_source": "restored supplied scatter SVG",
+    "open_black_markers": 592,
+    "WT_markers": 30,
+    "embedded_library_backgrounds": 6,
+    "restoration_validation": "2e/restoration_validation.json"
+  }
+}

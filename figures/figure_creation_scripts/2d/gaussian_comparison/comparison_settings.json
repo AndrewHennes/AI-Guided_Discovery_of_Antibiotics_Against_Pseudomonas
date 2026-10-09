@@ -1,0 +1,25 @@
+{
+  "parameter_column_mapping": {
+    "Hits": "WT_and_Delta6_active",
+    "Nonhits": "Delta6_only_active"
+  },
+  "IPC_scale": "log10IPC",
+  "box_percentiles": [
+    25,
+    75
+  ],
+  "median_percentile": 50,
+  "whisker_percentiles": [
+    10,
+    90
+  ],
+  "axis_limits": [
+    -0.5,
+    8
+  ],
+  "supplied_class_priors": {
+    "Hits": 0.25,
+    "Nonhits": 0.75
+  },
+  "priors_used_for_within_class_percentiles": false
+}

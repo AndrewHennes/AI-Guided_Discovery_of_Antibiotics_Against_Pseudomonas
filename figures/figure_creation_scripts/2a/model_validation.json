@@ -1,0 +1,102 @@
+[
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_0.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_1.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_2.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_3.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_4.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_5.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_6.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_7.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_8.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi60/ensemble_member_9.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_0.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_1.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_2.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_3.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_4.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_5.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_6.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_7.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_8.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  },
+  {
+    "checkpoint": "deep_flux/final_ensembles/gi80/ensemble_member_9.ckpt",
+    "maximum_absolute_logit_difference": 0.0,
+    "samples": 256
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-05",
+  "current_version": "025, all hits per strain",
+  "panel_count": 9,
+  "published_figure_1_svg_count": 10,
+  "installed_panel_g_entry_script_verified_from_cwd": "/private/tmp",
+  "all_analysis_checks_passed": true,
+  "panel_f_density_recalculation_matches_verified_curves": true,
+  "panel_f_artwork_preserved": true,
+  "all_published_panel_svgs_match_method_exports": true,
+  "all_svg_hashes_match_tested_exports": true,
+  "protected_figure_2_and_shared_files_unchanged": 180,
+  "current_scripts_parsed": 17,
+  "source_inputs_bundled": true,
+  "old_figure_1_archived": "archive/figure_1_before_v025_sync_2026_10_05.zip"
+}

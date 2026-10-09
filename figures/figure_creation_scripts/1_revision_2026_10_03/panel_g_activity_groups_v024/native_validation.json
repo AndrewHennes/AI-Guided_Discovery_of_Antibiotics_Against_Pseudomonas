@@ -1,0 +1,37 @@
+{
+  "native_file": "/Users/asselism/Documents/Codex/2026-10-03/these-dataset-are-mics-taken-along/outputs/Figure_1_revision/Figure1_v024_TPSA_amines_LogP.ai",
+  "native_sha256": "50bea6fdb833c327fd96db7025bb205d0c1df1b28e0412cba5e9169b1be252d0",
+  "group_counts": {
+    "WT": 8,
+    "Delta40": 5,
+    "Delta3": 31,
+    "Delta6": 85
+  },
+  "properties": [
+    "TPSA",
+    "Amine_count",
+    "logP"
+  ],
+  "simple_category_labels_only": true,
+  "panel_g_fonts": [
+    "Arial-BoldMT",
+    "ArialMT"
+  ],
+  "regions_pixel_identical_to_v023": {
+    "above_g": true,
+    "left_of_g": true,
+    "below_g": true,
+    "panel_f": true
+  },
+  "panel_f_text_identical_to_v023": true,
+  "all_387_points_inside_axes": true,
+  "data_validation_report": "/Users/asselism/Documents/Codex/2026-10-03/these-dataset-are-mics-taken-along/outputs/Figure_1_revision/panel_g_activity_groups_v024/validation.json",
+  "review_pdf_dpi": 300,
+  "exports_derived_from_saved_native_AI": true,
+  "files": {
+    "Figure1_v024_TPSA_amines_LogP.ai": 307119367,
+    "Figure1_v024_TPSA_amines_LogP.pdf": 110340169,
+    "Figure1_v024_review.pdf": 2016913,
+    "Figure1_v024_TPSA_amines_LogP.png": 685774
+  }
+}

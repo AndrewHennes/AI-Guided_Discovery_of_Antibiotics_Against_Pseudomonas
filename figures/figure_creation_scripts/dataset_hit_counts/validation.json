@@ -1,0 +1,17 @@
+{
+  "unique_hit_counts_match_independent_source_audit": true,
+  "bar_labels_equal_count_table": true,
+  "one_structure_per_dataset_and_strain_in_hit_list": true,
+  "WT_counts": {
+    "8K": 8,
+    "39K": 17,
+    "ECBD": 3,
+    "COADD": 14,
+    "PurchasedBroad": 5
+  },
+  "number_of_bars": 10,
+  "palette_matches_Figure_1_strains": true,
+  "SVG_all_vector_components": true,
+  "SVG_references_resolve": true,
+  "PDF_text_and_count_labels_verified": true
+}

@@ -1,0 +1,23 @@
+{
+  "OD600": {
+    "filename": "Princeton_Bio_WTAtoD_d6EtoH.txt",
+    "sha256": "a6c7ac321a76467edafbbf15e905527ab08c82071c0c3c417a54b878093ffd36",
+    "plate_rows": 8,
+    "plate_columns": 12,
+    "encoding": "UTF-16LE with BOM"
+  },
+  "Resazurin_30min": {
+    "filename": "Princeton_Bio_WTAtoD_d6EtoH_resazurin_30mins.txt",
+    "sha256": "ebbb810ab9a00a9c5c2f5cc4ff8be7e12a9907338b727e41787c9b6b9ff1fe94",
+    "plate_rows": 8,
+    "plate_columns": 12,
+    "encoding": "UTF-16LE with BOM"
+  },
+  "Resazurin_60min": {
+    "filename": "Princeton_Bio_WTAtoD_d6EtoH_resazurin_60mins.txt",
+    "sha256": "bf3d8916e63a95ae6b8ded46a515d863bdcca6fbf94422d157c2df8af208abea",
+    "plate_rows": 8,
+    "plate_columns": 12,
+    "encoding": "UTF-16LE with BOM"
+  }
+}

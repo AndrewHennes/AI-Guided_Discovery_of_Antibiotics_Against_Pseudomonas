@@ -1,0 +1,41 @@
+{
+  "restored_panel": "Figure 2e",
+  "restored_plot_source": "Figure2_v024",
+  "updated_illustrator_file": "Figure2_v026.ai",
+  "native_AI_identical_to_previously_verified_original": true,
+  "panel_SVG_identical_to_original": true,
+  "original_renderer_restored": true,
+  "original_live_text_validation_source": "Figure2_v024.ai",
+  "original_live_text_frames": 485,
+  "restored_marker_style": "open black circles and filled green WT circles",
+  "restored_script_reproduces_original_SVG_exactly": true,
+  "Figure1_and_ROC_assets_unchanged": true,
+  "source_validation": {
+    "source_figure": "Figure2_v024.ai",
+    "pdf_readable": true,
+    "pdf_artboard": [
+      0.0,
+      0.0,
+      841.8900146484375,
+      595.2760009765625
+    ],
+    "differences_between_v024_and_v025_pixel_bbox_144dpi": [
+      64,
+      379,
+      942,
+      752
+    ],
+    "pixels_changed_outside_panel_e": 0,
+    "previous_analysis_panel_pdf_matches_v024_crop": true,
+    "native_roc_auc_labels_present": {
+      "AUC = 0.769": true,
+      "AUC = 0.750": true
+    },
+    "native_top100_legend_present": true,
+    "previous_analysis_panel_svg_matches_v024_crop": true,
+    "native_panel_e_open_black_circles": 574,
+    "native_panel_e_filled_green_circles": 31,
+    "source_ai_sha256": "a76d3f6d202b406e99662b42a79fe24af033a63566e13af782c47764bf003559",
+    "native_circle_count_note": "Counts include panel legend and exclude circles outside panel bounds."
+  }
+}

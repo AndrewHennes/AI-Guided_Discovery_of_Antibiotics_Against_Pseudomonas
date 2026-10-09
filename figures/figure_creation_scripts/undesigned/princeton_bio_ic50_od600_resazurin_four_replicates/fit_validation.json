@@ -1,0 +1,31 @@
+{
+  "total_measurements": 288,
+  "total_independent_row_fits": 24,
+  "concentrations_uM_left_to_right": [
+    255.0,
+    127.5,
+    63.75,
+    31.875,
+    15.9375,
+    7.96875,
+    3.984375,
+    1.9921875,
+    0.99609375,
+    0.498046875,
+    0.2490234375,
+    0.12451171875
+  ],
+  "all_fits_converged": true,
+  "any_optimizer_bound_active": false,
+  "all_ic50_inside_tested_range": true,
+  "minimum_row_r_squared": 0.9619320814155236,
+  "largest_near_best_start_log10_ic50_range": 2.0074261741775956e-07,
+  "versions": {
+    "numpy": "2.3.0",
+    "pandas": "2.3.1",
+    "scipy": "1.16.2",
+    "matplotlib": "3.10.3"
+  },
+  "independent_direct_parameter_refit_maximum_relative_ic50_difference": 7.577237814970772e-08,
+  "midpoint_and_normalization_verified": true
+}

@@ -1,0 +1,112 @@
+{
+  "raw_dataset_hit_counts": {
+    "WT": 8,
+    "Delta40": 5,
+    "Delta3": 39,
+    "Delta6": 124
+  },
+  "coordinate_joins": {
+    "f": {
+      "molecules": 146020,
+      "all_hit_calls_match": true,
+      "all_coordinates_match": true
+    },
+    "g": {
+      "molecules": 106646,
+      "all_hit_calls_match": true,
+      "all_coordinates_match": true
+    }
+  },
+  "assembled_pdf_pixel_differences_at_180_dpi": 0,
+  "svg_exports": {
+    "c": {
+      "valid_internal_references": true,
+      "outlined_text": true,
+      "raster_images": 0,
+      "bytes": 431672,
+      "rendered_dimensions": [
+        320,
+        339
+      ],
+      "svg_rendered": true
+    },
+    "d": {
+      "valid_internal_references": true,
+      "outlined_text": true,
+      "raster_images": 0,
+      "bytes": 431755,
+      "rendered_dimensions": [
+        338,
+        339
+      ],
+      "svg_rendered": true
+    },
+    "e": {
+      "valid_internal_references": true,
+      "outlined_text": true,
+      "raster_images": 0,
+      "bytes": 431811,
+      "rendered_dimensions": [
+        530,
+        324
+      ],
+      "svg_rendered": true
+    },
+    "f": {
+      "valid_internal_references": true,
+      "outlined_text": true,
+      "raster_images": 0,
+      "bytes": 22589996,
+      "rendered_dimensions": [
+        653,
+        760
+      ],
+      "svg_rendered": true
+    },
+    "g": {
+      "valid_internal_references": true,
+      "outlined_text": true,
+      "raster_images": 0,
+      "bytes": 16108031,
+      "rendered_dimensions": [
+        608,
+        760
+      ],
+      "svg_rendered": true
+    },
+    "figure_1": {
+      "valid_internal_references": true,
+      "outlined_text": true,
+      "raster_images": 0,
+      "bytes": 47559546,
+      "rendered_dimensions": [
+        2188,
+        1174
+      ],
+      "svg_rendered": true
+    }
+  },
+  "illustrator": {
+    "native_save_and_reopen": true,
+    "version": "30.8.1",
+    "live_text_frames": 110,
+    "raster_items": 0,
+    "before_after_reopen_pixel_differences": 0
+  },
+  "dataset_paths_blank": true,
+  "ran_from_a_different_working_directory": true,
+  "full_svg_checked_with_librsvg": true,
+  "svg_background": "white",
+  "subfigure_directory_layout": {
+    "a": "1a",
+    "b": "1b",
+    "c": "1c",
+    "d": "1d",
+    "e": "1e",
+    "f": "1f",
+    "g": "1g"
+  },
+  "reorganized_script_execution_from_other_working_directory": true,
+  "regenerated_panels_c_to_g_and_full_figure_png_sha256_unchanged": true,
+  "panels_a_b_match_reference_crops": true
+}

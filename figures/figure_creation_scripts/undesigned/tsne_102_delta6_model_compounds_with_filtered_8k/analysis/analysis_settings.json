@@ -1,0 +1,101 @@
+{
+  "standardization": {
+    "input_column": "SMILES in both source datasets",
+    "steps": [
+      "RDKit sanitized SMILES parsing",
+      "rdMolStandardize.Cleanup",
+      "rdMolStandardize.FragmentParent with skipStandardize=True",
+      "rdMolStandardize.Uncharger",
+      "RemoveHs",
+      "canonical isomeric SMILES serialization"
+    ],
+    "tautomer_canonicalization": false,
+    "stereochemistry": "Retained in the standardized isomeric SMILES",
+    "convergence": "Repeat cleanup and parent preparation to a fixed point; choose the lexicographically first canonical SMILES if charge redistribution cycles",
+    "deduplication": "One embedding coordinate per standardized structure in the joint dataset"
+  },
+  "fingerprints": {
+    "type": "Morgan binary",
+    "radius": 2,
+    "bits": 2048,
+    "includeChirality": false
+  },
+  "pca": {
+    "components": 50,
+    "svd_solver": "randomized",
+    "random_state": 42,
+    "explained_variance_ratio_sum": 0.42054468393325806
+  },
+  "tsne": {
+    "dimensions": 2,
+    "perplexity": 30,
+    "initialization": "pca",
+    "metric": "euclidean",
+    "neighbors": "annoy",
+    "negative_gradient_method": "fft",
+    "random_state": 42,
+    "n_jobs": 8,
+    "early_exaggeration_iter": 250,
+    "n_iter": 500,
+    "kl_divergence": 2.4195874301744844
+  },
+  "python_version": "3.12.11",
+  "package_versions": {
+    "numpy": "2.3.0",
+    "pandas": "2.3.1",
+    "rdkit": "2025.9.5",
+    "scikit-learn": "1.7.2",
+    "openTSNE": "1.0.4",
+    "annoy": "1.17.3",
+    "threadpoolctl": "3.6.0",
+    "matplotlib": "3.10.3",
+    "PyMuPDF": "1.26.7"
+  },
+  "input_and_standardization_summary": {
+    "datasets": {
+      "8K": {
+        "source_filename": "Broad_8K_Antibiotic_Activity_Dataset_Filtered_.csv",
+        "source_sha256": "2fac968e99dd09866f124376794c9628f4654441bcefe051dd0dc796e28c1c39",
+        "records": 7997,
+        "original_unique_canonical_structures": 7990,
+        "standardized_unique_structures": 7990,
+        "records_changed_by_standardization": 435,
+        "wt_hit_records": 8,
+        "delta6_hit_records": 124,
+        "missing_wt_calls": 0,
+        "missing_delta6_calls": 0
+      },
+      "New102": {
+        "source_filename": "PA01_PA\u22066_Growth_Inhibition_\u22066_Model_Only_Processed.csv",
+        "source_sha256": "a8188148cd656bdc063ec3eccbc3bcd1581fefd541268343a61a03bc751088a9",
+        "records": 102,
+        "original_unique_canonical_structures": 102,
+        "standardized_unique_structures": 102,
+        "records_changed_by_standardization": 0,
+        "wt_hit_records": 0,
+        "delta6_hit_records": 53,
+        "missing_wt_calls": 1,
+        "missing_delta6_calls": 0
+      }
+    },
+    "standardization": {
+      "input_column": "SMILES in both source datasets",
+      "steps": [
+        "RDKit sanitized SMILES parsing",
+        "rdMolStandardize.Cleanup",
+        "rdMolStandardize.FragmentParent with skipStandardize=True",
+        "rdMolStandardize.Uncharger",
+        "RemoveHs",
+        "canonical isomeric SMILES serialization"
+      ],
+      "tautomer_canonicalization": false,
+      "stereochemistry": "Retained in the standardized isomeric SMILES",
+      "convergence": "Repeat cleanup and parent preparation to a fixed point; choose the lexicographically first canonical SMILES if charge redistribution cycles",
+      "deduplication": "One embedding coordinate per standardized structure in the joint dataset"
+    },
+    "joint_unique_structures": 8092,
+    "structures_shared_between_datasets": 0,
+    "standardization_idempotence_verified": true,
+    "new_compounds_all_present": true
+  }
+}

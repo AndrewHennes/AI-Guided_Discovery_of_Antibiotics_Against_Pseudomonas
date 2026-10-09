@@ -1,0 +1,174 @@
+{
+  "final_ai_sha256": "3247dc8b73835401a8eaf4c2201b28eda074b96755c673745fa2294577f528db",
+  "matched_panels": {
+    "d": {
+      "code": "1d/plot_dataset_hit_counts.py",
+      "derived_from": [
+        "shared/figure1_current_analysis.py"
+      ],
+      "description": "Updated dataset hit counts"
+    },
+    "f": {
+      "code": "1f/plot_growth_inhibition_distribution.py",
+      "derived_from": [
+        "shared/figure1_current_analysis.py",
+        "shared/figure1_inhibition.py"
+      ],
+      "description": "Log-density inhibition violin distributions"
+    },
+    "g": {
+      "code": "1g/plot_all_hit_properties.py",
+      "derived_from": [
+        "shared/figure1_properties.py",
+        "shared/figure1_amine_descriptor.py"
+      ],
+      "description": "All-hit TPSA, amine count, and LogP boxplots"
+    }
+  },
+  "path_adaptations": "Panel-local outputs, bundled input paths, current lowercase filenames; calculation and plotting routines retained.",
+  "upstream_code_sha256": {
+    "shared/figure1_current_analysis.py": "d2295acacca96f73191cc1368698a859b9081cb75784d6dca4328f3873421654",
+    "shared/figure1_inhibition.py": "468beeac8e98284ce4ccca93444b6f1e42e706b674e4a4bdd02c51f1da938aea",
+    "shared/figure1_properties.py": "eb74d30625d6aa268b251c8dfd2d84ac2dc4cde4f625c964aed7d7cfc9274ee1",
+    "shared/figure1_amine_descriptor.py": "20ff5c897422db3cc8a6f071f22fa07c1379c8f3959f462267e53ee7b4e5a5a1"
+  },
+  "validation": {
+    "d": {
+      "counts_match_final_figure": true,
+      "counts": [
+        {
+          "Dataset": "8K",
+          "Strain": "WT",
+          "Unique_hit_structures": 8,
+          "Hit_records": 8
+        },
+        {
+          "Dataset": "8K",
+          "Strain": "Delta40",
+          "Unique_hit_structures": 5,
+          "Hit_records": 5
+        },
+        {
+          "Dataset": "8K",
+          "Strain": "Delta3",
+          "Unique_hit_structures": 39,
+          "Hit_records": 39
+        },
+        {
+          "Dataset": "8K",
+          "Strain": "Delta6",
+          "Unique_hit_structures": 124,
+          "Hit_records": 124
+        },
+        {
+          "Dataset": "39K",
+          "Strain": "WT",
+          "Unique_hit_structures": 8,
+          "Hit_records": 8
+        },
+        {
+          "Dataset": "ECBD",
+          "Strain": "WT",
+          "Unique_hit_structures": 1,
+          "Hit_records": 1
+        },
+        {
+          "Dataset": "COADD",
+          "Strain": "WT",
+          "Unique_hit_structures": 7,
+          "Hit_records": 7
+        },
+        {
+          "Dataset": "COADD",
+          "Strain": "Delta5",
+          "Unique_hit_structures": 75,
+          "Hit_records": 143
+        }
+      ]
+    },
+    "f": {
+      "measured_counts": {
+        "WT": 7671,
+        "Delta40": 7985,
+        "Delta3": 7985,
+        "Delta6": 7985
+      },
+      "screen_n_annotation": 7994,
+      "density_table_matches_v025": true,
+      "published_artwork_preserved": true
+    },
+    "g": {
+      "source": "shared/figure1_current/inputs/8k.csv.gz",
+      "source_sha256": "374d0e0f856ebb71791ed848e191a01abfe34cf8f6500b5602cae9ba040891c5",
+      "source_rows": 7997,
+      "unique_source_structures": 7985,
+      "group_counts": {
+        "WT": 8,
+        "Delta40": 5,
+        "Delta3": 39,
+        "Delta6": 124
+      },
+      "group_rules": {
+        "WT": "WT = 1",
+        "Delta40": "Delta40 = 1",
+        "Delta3": "Delta3 = 1",
+        "Delta6": "Delta6 = 1"
+      },
+      "unique_plotted_structures": 125,
+      "observations_per_property": 176,
+      "total_points": 528,
+      "group_membership_independently_checked": true,
+      "descriptor_values_checked_against_verified_table": 125,
+      "amine_functional_group_examples_checked": 33,
+      "axis_limits": {
+        "TPSA": [
+          -8,
+          220
+        ],
+        "Amine_count": [
+          -0.2,
+          3.25
+        ],
+        "logP": [
+          0,
+          8
+        ]
+      },
+      "points_outside_axes": 0,
+      "colors_RGB": {
+        "WT": [
+          0.07547,
+          0.65324,
+          0.31118
+        ],
+        "Delta40": [
+          0.97905,
+          0.6376,
+          0.11945
+        ],
+        "Delta3": [
+          0.75422,
+          0.23545,
+          0.17137
+        ],
+        "Delta6": [
+          0.66175,
+          0.37743,
+          0.65107
+        ]
+      },
+      "versions": {
+        "rdkit": "2025.09.5",
+        "matplotlib": "3.10.8",
+        "pandas": "2.3.1"
+      }
+    }
+  },
+  "tested_working_directory": "/private/tmp",
+  "added_code_sha256": {
+    "1f/plot_growth_inhibition_distribution.py": "e35ea69b24413a349a308233b7fbd6f4cc08256a795278df54aec7442cb71506",
+    "1g/plot_all_hit_properties.py": "1011cf11387183d1aeca8bc60694a3a23cd7ae1fa1d16827474b98a540743a8f",
+    "1g/amine_descriptor.py": "20ff5c897422db3cc8a6f071f22fa07c1379c8f3959f462267e53ee7b4e5a5a1",
+    "1d/plot_dataset_hit_counts.py": "9bbd22511c58f00b6ed1819b2fe591736be17da48b1bb83aab503526651c1f22"
+  }
+}

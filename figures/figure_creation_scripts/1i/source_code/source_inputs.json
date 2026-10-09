@@ -1,0 +1,14 @@
+[
+  {
+    "file": "shared/assets/figure_1_vector_layout.pdf",
+    "sha256": "8025c3641558830c04e6097fa60140bdc4e5b722b344c04badd5d3a4913ecc4a"
+  },
+  {
+    "file": "shared/saved_plot_data/8k_binary_hits.csv.gz",
+    "sha256": "b65ca58b6ebf55e227c21e02ac344b43d846ec71eac8467865ff34ba38d6ebad"
+  },
+  {
+    "file": "shared/saved_plot_data/panel_f_coordinates.csv.gz",
+    "sha256": "9d9b4cff01f1adbe9725c04517cfca116113e45a310cfa8bfff0257d4a0e8963"
+  }
+]

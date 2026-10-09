@@ -1,0 +1,16 @@
+{
+  "8K": {
+    "filename": "Broad_8K_Antibiotic_Activity_Dataset_Filtered_.csv",
+    "saved_filename": "Broad_8K_Antibiotic_Activity_Dataset_Filtered_.csv.gz",
+    "source_sha256": "2fac968e99dd09866f124376794c9628f4654441bcefe051dd0dc796e28c1c39",
+    "compressed_sha256": "f511a0573c59facbe8d91f0f20c152dfc070c477fcfc7d7cbee6ff713d74ee80",
+    "source_bytes": 85840921
+  },
+  "New102": {
+    "filename": "PA01_PA\u22066_Growth_Inhibition_\u22066_Model_Only_Processed.csv",
+    "saved_filename": "PA01_PA\u22066_Growth_Inhibition_\u22066_Model_Only_Processed.csv.gz",
+    "source_sha256": "a8188148cd656bdc063ec3eccbc3bcd1581fefd541268343a61a03bc751088a9",
+    "compressed_sha256": "c05dde7326452a04ba74350c4350ed9cb203b54946bd96009280c5cec9f955bd",
+    "source_bytes": 24961
+  }
+}

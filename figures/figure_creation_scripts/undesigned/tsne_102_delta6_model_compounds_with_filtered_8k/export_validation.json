@@ -1,0 +1,13 @@
+{
+  "svg_viewbox": "0 0 243 304",
+  "svg_layer_marker_counts": {
+    "8K_filtered_library": 7990,
+    "New102_below_Delta6_cutoff": 49,
+    "New102_Delta6_hit": 53
+  },
+  "raster_images_in_svg_or_pdf": 0,
+  "svg_text_as_outlines": true,
+  "pdf_font_embedded": true,
+  "all_markers_within_plot_bounds": true,
+  "visual_review": "PNG inspected against Figure 1g reference; same canvas proportion, point sizes, strain color, outlines, borderless layout, and legend font size; legend content updated for these two datasets."
+}

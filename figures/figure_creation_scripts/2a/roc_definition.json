@@ -1,0 +1,15 @@
+{
+  "positive_class": "Delta5_hit",
+  "negative_class": "inactive_in_both_strains",
+  "positive_rule": "PA_MexB_Binarized_at_80_Percent_Growth_Inhibition == 1",
+  "negative_rule": "PA_MexB_Binarized_at_80_Percent_Growth_Inhibition == 0 and PA_Binarized_at_80_Percent_Growth_Inhibition == 0",
+  "label_column": "ROC_Delta5_Hit_Positive_Label",
+  "score_transformation": "original ensemble_mean",
+  "growth_inhibition_hit_threshold_percent": 80,
+  "analysis_unit": "one_per_COADD_compound_ID",
+  "deduplication_key": "COADD_Compounds_ID",
+  "dataset_variant": "filtered",
+  "representative_selection": "first eligible source record; labels, structure, and scores must agree within ID",
+  "x_axis": "False positive rate",
+  "y_axis": "True positive rate"
+}

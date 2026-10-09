@@ -1,0 +1,87 @@
+{
+  "reference": "Figure 1g molecular chemical-space panel",
+  "style": {
+    "canvas_width_pt": 243.0,
+    "canvas_height_pt": 304.0,
+    "plot_bounds_pt": [
+      [
+        6.0,
+        231.0
+      ],
+      [
+        21.0,
+        241.0
+      ]
+    ],
+    "background_radius_pt": 0.303108739853,
+    "foreground_radius_pt": 1.705688905716,
+    "foreground_outline_width_pt": 0.25,
+    "background_color": "#c4c4c4",
+    "background_opacity": 0.5,
+    "foreground_opacity": 0.949997,
+    "wt_color": "#00a650",
+    "delta6_color": "#a860a5",
+    "outline_color": "#030405",
+    "text_color": "#221f1f",
+    "font_family": "Helvetica",
+    "legend_font_size_pt": 8.4
+  },
+  "font_file_used": "/System/Library/Fonts/Helvetica.ttc",
+  "layers": [
+    {
+      "layer": "8K filtered library",
+      "structures": 7990,
+      "radius_pt": 0.303108739853,
+      "fill": "#c4c4c4",
+      "edge": "none",
+      "opacity": 0.5,
+      "outline_width_pt": 0
+    },
+    {
+      "layer": "New102 below Delta6 cutoff",
+      "structures": 49,
+      "radius_pt": 1.705688905716,
+      "fill": "white",
+      "edge": "#030405",
+      "opacity": 1,
+      "outline_width_pt": 0.25
+    },
+    {
+      "layer": "New102 Delta6 hit",
+      "structures": 53,
+      "radius_pt": 1.705688905716,
+      "fill": "#a860a5",
+      "edge": "#030405",
+      "opacity": 0.949997,
+      "outline_width_pt": 0.25
+    },
+    {
+      "layer": "New102 WT hit",
+      "structures": 0,
+      "radius_pt": 1.705688905716,
+      "fill": "#00a650",
+      "edge": "#030405",
+      "opacity": 1,
+      "outline_width_pt": 0.25
+    }
+  ],
+  "new_unique_structures_plotted": 102,
+  "new_record_count": 102,
+  "coordinate_rescaling": {
+    "center": [
+      -4.186011458339763,
+      1.3759672814321888
+    ],
+    "scale": 1.3835932764327563,
+    "isotropic": true
+  },
+  "wt_hits_in_new_set": 0,
+  "delta6_hits_in_new_set": 53,
+  "missing_wt_calls_in_new_set": 1,
+  "legend": [
+    "8K filtered library",
+    "\u03946 active \u00b7 102-compound set",
+    "\u03946 <80% \u00b7 102-compound set"
+  ],
+  "all_markers_vector": true
+}

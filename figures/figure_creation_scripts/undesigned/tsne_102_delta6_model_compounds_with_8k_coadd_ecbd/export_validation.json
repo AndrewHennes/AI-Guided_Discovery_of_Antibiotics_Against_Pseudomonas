@@ -1,0 +1,16 @@
+{
+  "svg_viewbox": "0 0 243 304",
+  "svg_layer_marker_counts": {
+    "8K_+_CO-ADD_+_ECBD": 206637,
+    "New102_below_Delta6_cutoff": 49,
+    "New102_Delta6_hit": 53
+  },
+  "all_background_markers_same_style": [
+    "fill: #c4c4c4; fill-opacity: 0.5"
+  ],
+  "svg_and_pdf_raster_images": 0,
+  "svg_labels_vector_outlines": true,
+  "pdf_fonts_embedded": true,
+  "all_markers_within_plot_extent": true,
+  "visual_review": "PNG compared with previous 102-compound plot and Figure 1g; same canvas proportions, marker sizes, strain color, outlines, borderless layout, and typography. All background libraries use uniform gray."
+}

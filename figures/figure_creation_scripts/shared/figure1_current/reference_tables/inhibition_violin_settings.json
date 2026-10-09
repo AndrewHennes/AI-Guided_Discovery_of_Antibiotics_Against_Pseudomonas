@@ -1,0 +1,20 @@
+{
+  "screen_n_annotation": 7994,
+  "screen_n_source": "Original replicate-panel screen annotation.",
+  "measured_unique_structures": {
+    "WT": 7671,
+    "Delta40": 7985,
+    "Delta3": 7985,
+    "Delta6": 7985
+  },
+  "density_units": "Probability per percentage point of growth inhibition",
+  "gaussian_bandwidth_percentage_points": 2.0,
+  "density_floor": 1e-05,
+  "shared_peak_density": 0.09510693721000402,
+  "half_width_formula": "0.405 * max(log10(density / 1e-5), 0) / log10(shared_peak_density / 1e-5)",
+  "displayed_inhibition_range": [
+    -60,
+    110
+  ],
+  "independent_strain_normalization": false
+}

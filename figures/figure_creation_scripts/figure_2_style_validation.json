@@ -1,0 +1,17 @@
+{
+  "property_fits_unchanged": true,
+  "illustrator_file": "Figure2_v026.ai",
+  "illustrator_live_text_frames": 485,
+  "illustrator_preserved_raster_items": 6,
+  "illustrator_path_items": 3228,
+  "illustrator_open_scatter_circle_paths": 705,
+  "illustrator_native_save_and_reopen": true,
+  "illustrator_text_visible_after_reopen": true,
+  "svg_rendered_with_librsvg": true,
+  "roc_dataset": "filtered CO-ADD",
+  "roc_unit": "one_per_COADD_compound_ID",
+  "roc_hit_cutoff_percent": 80,
+  "restored_panel_e_source": "Figure2_v024",
+  "restoration_validation": "2e/restoration_validation.json",
+  "native_AI_byte_identical_to_verified_Figure2_v024": true
+}

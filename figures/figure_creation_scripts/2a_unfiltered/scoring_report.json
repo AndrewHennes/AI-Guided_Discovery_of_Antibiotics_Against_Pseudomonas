@@ -1,0 +1,9 @@
+{
+  "source_sha256": "3012cd12af63859b7ad0d69b7e0e10674d585217b08c2d414e8014f8543c85e7",
+  "rows": 188740,
+  "scored_rows": 188730,
+  "positive_records": 154,
+  "negative_records": 34630,
+  "additional_structures": 640,
+  "additional_features_matched": 638
+}

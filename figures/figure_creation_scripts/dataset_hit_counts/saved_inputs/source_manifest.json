@@ -1,0 +1,38 @@
+{
+  "8K": {
+    "filename": "Broad_8K_Antibiotic_Activity_Dataset_Filtered_.csv",
+    "source_rows": 7997,
+    "sha256": "2fac968e99dd09866f124376794c9628f4654441bcefe051dd0dc796e28c1c39",
+    "saved_input_filename": "8K_records.csv.gz",
+    "saved_input_sha256": "e59b753f31d8a7a21faa320e22bffdb88dd69bf14829f85fccd71b243c93febe"
+  },
+  "ECBD": {
+    "filename": "Formatted_ECBD_Antibiotic_Activity_Dataset_Filtered.csv",
+    "source_rows": 100763,
+    "sha256": "524fadd4c3c38e6734c0aea19ec051c24bf8d28536ae445af75dc540223c799d",
+    "saved_input_filename": "ECBD_records.csv.gz",
+    "saved_input_sha256": "0a671ac159dc1282f50328017a20dc3083de4f0d8588616bd5aac0a4224aae33"
+  },
+  "COADD": {
+    "filename": "COADD_Antibiotic_Activity_Dataset_Filtered.csv",
+    "source_rows": 185502,
+    "sha256": "1fec637ea17e199126d50c08de7dd43dd5bfe1cae555df566ccfc52fb309cb23",
+    "saved_input_filename": "COADD_records.csv.gz",
+    "saved_input_sha256": "c81424a0d345aab10208f9964afd95e0bf4faf236809a7c5f2b42ffb1a1f285c"
+  },
+  "39K": {
+    "filename": "Broad_39K_Antibiotic_Activity_Dataset_Filtered.csv",
+    "source_rows": 39300,
+    "sha256": "b8cf31da79a2a4627ff529d127c5cc4cb1a675525928b55c83a5dbe8033dc900",
+    "saved_input_filename": "39K_records.csv.gz",
+    "saved_input_sha256": "88ec319812ea842769d089976e1ee468b0a781343c167f45092314c7164a8d5b"
+  },
+  "PurchasedBroad": {
+    "filename": "All_PA_Screening_with_\u22066_and_WT_Strain_Activity.xlsx",
+    "worksheet": "Data",
+    "source_rows": 183,
+    "sha256": "aff652646295a6d921347bb0c882ae200c9df9091357ecba4fd3c5c7088a6b0c",
+    "saved_input_filename": "PurchasedBroad_records.csv.gz",
+    "saved_input_sha256": "ea1eeeded40d01e187e489bc4f9a663a4cf6308755c3310fa8a779900539a7a3"
+  }
+}

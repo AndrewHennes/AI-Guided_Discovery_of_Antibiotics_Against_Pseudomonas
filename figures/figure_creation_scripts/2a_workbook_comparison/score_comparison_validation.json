@@ -1,0 +1,19 @@
+{
+  "workbook_records": 34198,
+  "close_score_pairs": 32835,
+  "relative_tolerance": 1e-05,
+  "absolute_tolerance": 6e-09,
+  "matching_basis": "numerical score-pair comparison",
+  "models": {
+    "GI60": {
+      "maximum_absolute_score_difference": 7.167541503649844e-07,
+      "old_scores_workbook_80_label_auc": 0.7914522704369866,
+      "new_scores_workbook_80_label_auc": 0.7914520969304615
+    },
+    "GI80": {
+      "maximum_absolute_score_difference": 5.218465041756382e-07,
+      "old_scores_workbook_80_label_auc": 0.7569943950452089,
+      "new_scores_workbook_80_label_auc": 0.7569947420582592
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# Local operating-system metadata and generated caches
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.nbc
+*.nbi
+numba_cache/
+matplotlib_cache/
+.ipynb_checkpoints/
+.pytest_cache/

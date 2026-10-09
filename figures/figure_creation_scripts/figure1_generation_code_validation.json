@@ -1,0 +1,61 @@
+{
+  "all_reproduction_scripts_passed": true,
+  "existing_current_panel_scripts_modified": false,
+  "checks": [
+    {
+      "panel": "1a",
+      "reproduction_run_from": "/private/tmp",
+      "script_completed": true,
+      "svg": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1a/antipseudomonal_compound_screening_workflow_a_source_for_1a.svg",
+      "resolved_svg_references": true
+    },
+    {
+      "panel": "1b",
+      "reproduction_run_from": "/private/tmp",
+      "script_completed": true,
+      "svg": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1b/replicate_growth_inhibition_correlations_across_four_strains_b_source_for_1b.svg",
+      "resolved_svg_references": true,
+      "inset_coordinates_match_original": true,
+      "WT_inset_points": 8
+    },
+    {
+      "panel": "1c",
+      "reproduction_run_from": "/private/tmp",
+      "script_completed": true,
+      "svg": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1c/replicate_growth_inhibition_correlations_across_four_strains_b_source_for_1c.svg",
+      "resolved_svg_references": true,
+      "inset_coordinates_match_original": true,
+      "WT_inset_points": 8
+    },
+    {
+      "panel": "1d",
+      "reproduction_run_from": "/private/tmp",
+      "script_completed": true,
+      "svg": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1d/d/d_updated_compound_counts.svg",
+      "resolved_svg_references": true
+    },
+    {
+      "panel": "1e",
+      "reproduction_run_from": "/private/tmp",
+      "script_completed": true,
+      "svg": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1e/four_strain_antibacterial_hit_overlap_venn_e_source_for_1e.svg",
+      "resolved_svg_references": true
+    },
+    {
+      "panel": "1h",
+      "reproduction_run_from": "/private/tmp",
+      "script_completed": true,
+      "svg": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1h/molecular_chemical_space_8k_coadd_tsne_g_source_for_1h.svg",
+      "resolved_svg_references": true
+    },
+    {
+      "panel": "1i",
+      "reproduction_run_from": "/private/tmp",
+      "script_completed": true,
+      "svg": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1i/molecular_chemical_space_8k_broad39k_ecbd_tsne_f_source_for_1i.svg",
+      "resolved_svg_references": true
+    }
+  ],
+  "final_dataset_counts_match": true,
+  "venn_counts_match": true
+}

@@ -1,0 +1,45 @@
+{
+  "native_file": "/Users/asselism/Documents/Codex/2026-10-03/these-dataset-are-mics-taken-along/outputs/Figure_1_revision/Figure1_v025_all_hits_TPSA_amines_LogP.ai",
+  "native_sha256": "3247dc8b73835401a8eaf4c2201b28eda074b96755c673745fa2294577f528db",
+  "group_counts": {
+    "WT": 8,
+    "Delta40": 5,
+    "Delta3": 39,
+    "Delta6": 124
+  },
+  "properties": [
+    "TPSA",
+    "Amine_count",
+    "logP"
+  ],
+  "simple_category_labels_only": true,
+  "panel_g_fonts": [
+    "Arial-BoldMT",
+    "ArialMT"
+  ],
+  "regions_pixel_identical_to_v024": {
+    "above_g": true,
+    "left_of_g": true,
+    "below_g": true,
+    "panel_f": true
+  },
+  "panel_f_text_identical_to_delivered_v024": true,
+  "open_figure_artwork_outside_panel_g_pixel_identical": true,
+  "open_figure_panel_f_pixel_identical": true,
+  "native_before_after_difference_bounds_px": [
+    1283,
+    338,
+    1729,
+    528
+  ],
+  "all_528_points_inside_axes": true,
+  "data_validation_report": "/Users/asselism/Documents/Codex/2026-10-03/these-dataset-are-mics-taken-along/outputs/Figure_1_revision/panel_g_all_hits_v025/validation.json",
+  "review_pdf_dpi": 300,
+  "exports_derived_from_saved_native_AI": true,
+  "files": {
+    "Figure1_v025_all_hits_TPSA_amines_LogP.ai": 307418893,
+    "Figure1_v025_all_hits_TPSA_amines_LogP.pdf": 110500285,
+    "Figure1_v025_review.pdf": 2024063,
+    "Figure1_v025_all_hits_TPSA_amines_LogP.png": 687940
+  }
+}

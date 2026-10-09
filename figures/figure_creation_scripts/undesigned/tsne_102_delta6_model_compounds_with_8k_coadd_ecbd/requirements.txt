@@ -1,0 +1,13 @@
+numpy==2.3.0
+pandas==2.3.1
+scipy==1.16.2
+scikit-learn==1.7.2
+rdkit==2025.9.5
+openTSNE==1.0.4
+annoy==1.17.3
+threadpoolctl==3.6.0
+matplotlib==3.10.8
+PyMuPDF==1.26.7
+Pillow==12.1.1
+fonttools==4.60.1
+skia-pathops==0.9.2

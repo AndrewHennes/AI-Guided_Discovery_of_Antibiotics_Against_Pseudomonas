@@ -1,0 +1,11 @@
+{
+  "joint_coordinates": 206734,
+  "all_coordinates_finite": true,
+  "every_valid_source_record_has_coordinates": true,
+  "gray_background_structures": 206637,
+  "all_102_new_compounds_preserved": true,
+  "new_delta6_hit_structures": 53,
+  "new_delta6_below_cutoff_structures": 49,
+  "new_structures_shared_with_background": 5,
+  "missing_wt_call_preserved": 1
+}

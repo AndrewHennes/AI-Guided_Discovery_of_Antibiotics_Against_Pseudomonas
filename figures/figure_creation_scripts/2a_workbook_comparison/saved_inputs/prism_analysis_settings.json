@@ -1,0 +1,100 @@
+{
+  "GI80_ROC": {
+    "auc": {
+      "status": "VALID",
+      "area": 0.7408364332171568,
+      "se": 0.02864350578044136,
+      "ci": {
+        "lower": 0.684696193496527,
+        "upper": 0.7969766729377865,
+        "level": 95.0
+      },
+      "isSwapped": true,
+      "pValue": {
+        "value": 1.3356348544627148e-15,
+        "level": 0.05,
+        "isSignificant": true,
+        "state": "P_VALUE_EQUAL"
+      }
+    },
+    "parameters": {
+      "data": {
+        "controlID": {
+          "col": {
+            "idx": 2,
+            "title": "GI80_Hits",
+            "uid": "A12EAB43-1382-43CC-BC59-38DF660F894C"
+          }
+        },
+        "patientID": {
+          "col": {
+            "idx": 3,
+            "title": "GI80_NonHits",
+            "uid": "A3298A43-9B0F-49B4-AD06-E338A2447385"
+          }
+        }
+      },
+      "options": {
+        "reportResultsAs": "FRACTION",
+        "confidenceMethod": "WILSON_BROWN",
+        "confidenceLevel": 95.0
+      },
+      "output": {
+        "significantDigitCount": 2,
+        "pValueStyle": {
+          "type": "P_VALUE_STYLE_GP",
+          "decimalDigitCount": 6
+        }
+      }
+    }
+  },
+  "GI60_ROC": {
+    "auc": {
+      "status": "VALID",
+      "area": 0.7684105396116676,
+      "se": 0.02061949664175569,
+      "ci": {
+        "lower": 0.7279970688144819,
+        "upper": 0.8088240104088533,
+        "level": 95.0
+      },
+      "isSwapped": true,
+      "pValue": {
+        "value": 7.424969749931185e-31,
+        "level": 0.05,
+        "isSignificant": true,
+        "state": "P_VALUE_EQUAL"
+      }
+    },
+    "parameters": {
+      "data": {
+        "controlID": {
+          "col": {
+            "idx": 0,
+            "title": "GI60_Hits",
+            "uid": "F2CB8DBC-219E-405B-8EA7-27A539878D1B"
+          }
+        },
+        "patientID": {
+          "col": {
+            "idx": 1,
+            "title": "GI60_NonHits",
+            "uid": "BF9A8EE4-D414-40B0-A683-D16B80DD4078"
+          }
+        }
+      },
+      "options": {
+        "reportResultsAs": "FRACTION",
+        "confidenceMethod": "WILSON_BROWN",
+        "confidenceLevel": 95.0
+      },
+      "output": {
+        "significantDigitCount": 2,
+        "pValueStyle": {
+          "type": "P_VALUE_STYLE_GP",
+          "decimalDigitCount": 6
+        }
+      }
+    }
+  }
+}

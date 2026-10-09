@@ -1,0 +1,13 @@
+{
+  "8K_standardized_structures_identical_to_previous_plot": true,
+  "New102_standardized_structures_identical_to_previous_plot": true,
+  "all_source_records_accounted_for": true,
+  "joint_unique_structures": 206734,
+  "gray_background_structures": 206637,
+  "new_compound_structures": 102,
+  "excluded_source_records": 8,
+  "excluded_reasons": {
+    "invalid_smiles": 6,
+    "missing_smiles": 2
+  }
+}

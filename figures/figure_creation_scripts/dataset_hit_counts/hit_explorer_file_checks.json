@@ -1,0 +1,12 @@
+{
+  "data_counts": "Passed against all 10 independently audited dataset-strain totals",
+  "source_files": "All five current files match provenance checksums",
+  "vector_structures": "All 285 SVGs parsed with valid viewBoxes and no external images",
+  "record_accounting": "Passed for all 286 entries and every represented assay",
+  "embedded_data": "Parsed JSON exactly matches generated data JSON",
+  "offline_dependencies": "No external resources or network APIs",
+  "javascript_syntax": "Passed Node --check after adding selection controls.",
+  "html_sha256": "78a4bc31c146ae55f4d0adaed2b4bd8e5249d3d67b7978ec54fea7ad79bb7328",
+  "selection_export": "Passed exact CSV round-trip of all 286 entries; source structures, identifiers, row indices, and dataset checksums retained. Shared structures remain independent dataset selections.",
+  "selection_export_edge_cases": "Passed empty/unknown selection, single-dataset scope, cross-dataset selections, mixed source calls, and multiple compound identifiers."
+}

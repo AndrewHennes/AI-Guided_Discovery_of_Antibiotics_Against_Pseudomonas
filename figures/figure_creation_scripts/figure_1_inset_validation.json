@@ -1,0 +1,94 @@
+{
+  "axis_limits": [
+    75,
+    105
+  ],
+  "strains": {
+    "WT": {
+      "points": 8,
+      "display_separation_applied": true,
+      "maximum_display_offset_points": 2.129130758795141,
+      "minimum_marker_center_distance_points": 2.0001005718985483,
+      "marker_diameter_points": 1.64
+    },
+    "Delta40": {
+      "points": 5,
+      "display_separation_applied": false,
+      "maximum_display_offset_points": 0.0,
+      "minimum_marker_center_distance_points": 0.5640475536723374,
+      "marker_diameter_points": 1.64
+    },
+    "Delta3": {
+      "points": 40,
+      "display_separation_applied": false,
+      "maximum_display_offset_points": 0.0,
+      "minimum_marker_center_distance_points": 0.03307548584990972,
+      "marker_diameter_points": 1.64
+    },
+    "Delta6": {
+      "points": 120,
+      "display_separation_applied": false,
+      "maximum_display_offset_points": 0.0,
+      "minimum_marker_center_distance_points": 0.047812824079780825,
+      "marker_diameter_points": 1.64
+    }
+  },
+  "main_plot_coordinates_changed": false,
+  "inset_counts": {
+    "Delta3": 40,
+    "Delta40": 5,
+    "Delta6": 120,
+    "WT": 8
+  },
+  "WT_display_coordinates_identical_to_previous": true,
+  "WT_minimum_marker_distance_points": 2.0001005718985696,
+  "nonWT_display_coordinates_equal_original_coordinates_exactly": true,
+  "all_original_inset_coordinates_unchanged": true,
+  "main_scatter_coordinates_unchanged": true,
+  "main_marker_counts": {
+    "WT": 7364,
+    "Delta40": 7994,
+    "Delta3": 7994,
+    "Delta6": 7994
+  },
+  "PDF_inset_markers_match_CSV_display_coordinates": true,
+  "points_offset_label_only_on_WT": true,
+  "PDF_pixels_unchanged_outside_three_nonWT_inset_regions": true,
+  "changed_pixels_per_inset_region_at_144dpi": {
+    "WT": 0,
+    "Delta40": 242,
+    "Delta3": 690,
+    "Delta6": 1706
+  },
+  "changed_pixel_bounds_at_144dpi": [
+    249,
+    419,
+    662,
+    857
+  ],
+  "native_illustrator": {
+    "native_file": "Figure1_v015.ai",
+    "saved_and_reopened": true,
+    "editable_text_frames": 110,
+    "raster_items": 0,
+    "path_items": 570124,
+    "inset_marker_counts": {
+      "WT": 8,
+      "Delta40": 5,
+      "Delta3": 40,
+      "Delta6": 120
+    },
+    "maximum_marker_coordinate_error_points": {
+      "WT": 7.088275966029665e-05,
+      "Delta40": 7.914468463566732e-05,
+      "Delta3": 9.296047552559034e-05,
+      "Delta6": 0.0001137258946356257
+    },
+    "WT_markers_separated": true,
+    "nonWT_markers_at_original_coordinates": true,
+    "native_markers_match_reproduction_coordinates": true
+  },
+  "updated_native_file": "Figure1_v015.ai",
+  "figure2_unchanged": true,
+  "SVG_rendered_with_librsvg": true
+}

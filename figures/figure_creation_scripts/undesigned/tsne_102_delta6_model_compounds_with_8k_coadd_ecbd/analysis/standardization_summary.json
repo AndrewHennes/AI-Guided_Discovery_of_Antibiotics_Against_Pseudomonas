@@ -1,0 +1,63 @@
+{
+  "datasets": {
+    "8K": {
+      "source_filename": "Broad_8K_Antibiotic_Activity_Dataset_Filtered_.csv",
+      "source_sha256": "2fac968e99dd09866f124376794c9628f4654441bcefe051dd0dc796e28c1c39",
+      "records": 7997,
+      "valid_records": 7997,
+      "excluded_records": 0,
+      "standardized_unique_structures": 7990,
+      "records_changed_by_standardization": 435
+    },
+    "COADD": {
+      "source_filename": "COADD_Antibiotic_Activity_Dataset_Filtered_Selected_Compounds_Removed.csv",
+      "source_sha256": "9578d385933eaf8a2f9c6886799dc083752c4dcf9522fc3cc41c34c1f32a7199",
+      "records": 185495,
+      "valid_records": 185487,
+      "excluded_records": 8,
+      "standardized_unique_structures": 99174,
+      "records_changed_by_standardization": 8920
+    },
+    "ECBD": {
+      "source_filename": "Formatted_ECBD_Antibiotic_Activity_Dataset_Filtered_Selected_Compounds_Removed.csv",
+      "source_sha256": "19b0c662aa886f7192463922486f5eba51d2b868d9a92a632c8c2b1b1290d632",
+      "records": 100761,
+      "valid_records": 100761,
+      "excluded_records": 0,
+      "standardized_unique_structures": 100759,
+      "records_changed_by_standardization": 3086
+    },
+    "New102": {
+      "source_filename": "PA01_PA\u22066_Growth_Inhibition_\u22066_Model_Only_Processed.csv",
+      "source_sha256": "a8188148cd656bdc063ec3eccbc3bcd1581fefd541268343a61a03bc751088a9",
+      "records": 102,
+      "valid_records": 102,
+      "excluded_records": 0,
+      "standardized_unique_structures": 102,
+      "records_changed_by_standardization": 0,
+      "wt_hit_records": 0,
+      "delta6_hit_records": 53,
+      "missing_wt_calls": 1
+    }
+  },
+  "standardization": {
+    "input_column": "SMILES in all four source datasets",
+    "steps": [
+      "RDKit sanitized SMILES parsing",
+      "rdMolStandardize.Cleanup",
+      "rdMolStandardize.FragmentParent with skipStandardize=True",
+      "rdMolStandardize.Uncharger",
+      "RemoveHs",
+      "canonical isomeric SMILES serialization"
+    ],
+    "tautomer_canonicalization": false,
+    "stereochemistry": "Retained in standardized isomeric SMILES",
+    "convergence": "Repeat cleanup and parent preparation to a fixed point; choose the lexicographically first canonical SMILES if charge redistribution cycles",
+    "deduplication": "One joint embedding coordinate per standardized structure"
+  },
+  "joint_unique_structures": 206734,
+  "gray_background_unique_structures": 206637,
+  "new_structures_shared_with_background": 5,
+  "new_compounds_all_present": true,
+  "background_activity_filter_applied": false
+}

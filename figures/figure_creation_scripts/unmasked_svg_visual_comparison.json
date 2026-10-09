@@ -1,0 +1,236 @@
+[
+  {
+    "file": "modified_subfigures_svg/Figure 1a (Screening workflow).svg",
+    "mean_channel_difference": 0.0007732956056978403,
+    "maximum_channel_difference": 6,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2e (Prediction scatter plots).svg",
+    "mean_channel_difference": 0.1301661300024769,
+    "maximum_channel_difference": 42,
+    "fraction_pixels_difference_over_16": 0.000925893162544378
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1g (8K COADD chemical space).svg",
+    "mean_channel_difference": 0.0001707157124636007,
+    "maximum_channel_difference": 8,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2d (Fitted property distributions).svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2 (Growth inhibition distributions).svg",
+    "mean_channel_difference": 0.0011974299065420561,
+    "maximum_channel_difference": 10,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2 (Complete figure).svg",
+    "mean_channel_difference": 0.05197242346342604,
+    "maximum_channel_difference": 49,
+    "fraction_pixels_difference_over_16": 0.0002488899275531666
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1b (Replicate correlations).svg",
+    "mean_channel_difference": 0.0065353741496598635,
+    "maximum_channel_difference": 5,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2 (Compound structures and dose responses).svg",
+    "mean_channel_difference": 0.0009015205353184962,
+    "maximum_channel_difference": 13,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1f (8K Broad39K ECBD chemical space).svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1c (Strain hit counts).svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2b (Hit retrieval).svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2c (Compound IC50 values).svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2f (Properties by growth inhibition).svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 2a (ROC curves).svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Dataset comparison (WT and mutant hit counts).svg",
+    "mean_channel_difference": 0.00262413845124589,
+    "maximum_channel_difference": 9,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1e (Hit overlap).svg",
+    "mean_channel_difference": 0.17573084840822148,
+    "maximum_channel_difference": 78,
+    "fraction_pixels_difference_over_16": 0.006564870647733904
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1d (Hit intersections).svg",
+    "mean_channel_difference": 0.000408988627379432,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "modified_subfigures_svg/Figure 1 (Complete figure).svg",
+    "mean_channel_difference": 0.015900231124807394,
+    "maximum_channel_difference": 70,
+    "fraction_pixels_difference_over_16": 0.00016949152542372882
+  },
+  {
+    "file": "methods/2a_unfiltered/deepflux_unfiltered_coadd_delta5_hits_vs_inactive_roc_2a.svg",
+    "mean_channel_difference": 1.6974726518294984e-06,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_one_per_COADD_ID_60_GI60_roc_2a.svg",
+    "mean_channel_difference": 1.6974726518294984e-06,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_workbook_records_80_roc_2a.svg",
+    "mean_channel_difference": 1.6974726518294984e-06,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/filtered_all_records_60_GI60_roc_2a.svg",
+    "mean_channel_difference": 1.6974726518294984e-06,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/GI60_60_percent_cutoff_comparison_2a.svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_all_records_60_GI60_roc_2a.svg",
+    "mean_channel_difference": 1.6974726518294984e-06,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/unfiltered_repeated_hit_once_per_COADD_ID_80_roc_2a.svg",
+    "mean_channel_difference": 1.6974726518294984e-06,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_and_unfiltered_80_percent_comparison_2a.svg",
+    "mean_channel_difference": 0.00025670372792674953,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2a_workbook_comparison/workbook_workbook_records_60_GI60_roc_2a.svg",
+    "mean_channel_difference": 1.6974726518294984e-06,
+    "maximum_channel_difference": 1,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/tsne_102_delta6_model_compounds_with_8k_coadd_ecbd/standardized_102_delta6_model_compounds_with_8k_coadd_ecbd_tsne.svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_30min_ic50.svg",
+    "mean_channel_difference": 0.00075278293135436,
+    "maximum_channel_difference": 2,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_od600_individual_row_fits.svg",
+    "mean_channel_difference": 0.0021657754010695187,
+    "maximum_channel_difference": 8,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_60min_individual_row_fits.svg",
+    "mean_channel_difference": 0.002365355233002292,
+    "maximum_channel_difference": 8,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_30min_individual_row_fits.svg",
+    "mean_channel_difference": 0.002337821492233257,
+    "maximum_channel_difference": 7,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_od600_ic50.svg",
+    "mean_channel_difference": 0.0007305194805194805,
+    "maximum_channel_difference": 2,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_three_readout_ic50_comparison.svg",
+    "mean_channel_difference": 0.0017388059701492536,
+    "maximum_channel_difference": 3,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/princeton_bio_ic50_od600_resazurin_four_replicates/princeton_bio_resazurin_60min_ic50.svg",
+    "mean_channel_difference": 0.0007534786641929499,
+    "maximum_channel_difference": 2,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/undesigned/tsne_102_delta6_model_compounds_with_filtered_8k/standardized_102_delta6_model_compounds_and_filtered_8k_tsne.svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/supplied_efflux_rule_gaussian_percentile_plot_d.svg",
+    "mean_channel_difference": 0.0002993961757799396,
+    "maximum_channel_difference": 2,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/current_vs_supplied_gaussian_percentile_comparison_d.svg",
+    "mean_channel_difference": 0.0,
+    "maximum_channel_difference": 0,
+    "fraction_pixels_difference_over_16": 0.0
+  },
+  {
+    "file": "methods/2d/gaussian_comparison/current_8k_gaussian_percentile_plot_d.svg",
+    "mean_channel_difference": 0.0002993961757799396,
+    "maximum_channel_difference": 2,
+    "fraction_pixels_difference_over_16": 0.0
+  }
+]

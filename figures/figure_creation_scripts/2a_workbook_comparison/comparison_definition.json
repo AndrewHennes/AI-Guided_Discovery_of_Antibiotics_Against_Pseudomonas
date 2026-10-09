@@ -1,0 +1,21 @@
+{
+  "positive_class": "Delta5 growth inhibition >= selected cutoff",
+  "negative_class": "Delta5 and WT growth inhibition < selected cutoff",
+  "score": "original ensemble mean",
+  "cutoffs": [
+    60,
+    80
+  ],
+  "row_units": [
+    "all_records",
+    "one_per_COADD_ID",
+    "one_per_structure",
+    "repeated_hit_once_per_COADD_ID"
+  ],
+  "structure_key": "Standardized_SMILES",
+  "repeated_structure": "c1ccc(C2=Nc3nonc3N=C(c3ccccc3)C2)cc1",
+  "workbook_labels": [
+    "Binarized_at_60_PGI",
+    "Binarized_at_80_PGI"
+  ]
+}

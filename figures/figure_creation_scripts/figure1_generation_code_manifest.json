@@ -1,0 +1,374 @@
+{
+  "final_figure": "/Users/asselism/Downloads/Figure1_v025_all_hits_TPSA_amines_LogP (3).ai",
+  "destination": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts",
+  "panels": [
+    {
+      "current_panel": "1a",
+      "description": "Screening workflow",
+      "source_panel": "1a",
+      "source_directory": "1a/source_code",
+      "current_export_script": "1a/antipseudomonal_compound_screening_workflow_a.py",
+      "source_reproduction_output": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1a",
+      "original_export_script_sha256": "88d0e340c30b31063d0f83568edcff127c1d6a0de8d9e9154adca0b850865e45"
+    },
+    {
+      "current_panel": "1b",
+      "description": "Replicate correlations",
+      "source_panel": "1b",
+      "source_directory": "1b/source_code",
+      "current_export_script": "1b/replicate_growth_inhibition_correlations_across_four_strains_b.py",
+      "source_reproduction_output": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1b",
+      "original_export_script_sha256": "0ef23f4201f60aa949727462475338c82301f4f6f4b071bd69c8e2c7fd05c6fe"
+    },
+    {
+      "current_panel": "1c",
+      "description": "Replicate correlation zoomed views",
+      "source_panel": "1b",
+      "source_directory": "1c/source_code",
+      "current_export_script": "1c/replicate_growth_inhibition_zoomed_views_c.py",
+      "source_reproduction_output": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1c",
+      "original_export_script_sha256": "287ebe16e5b2de238fb7d3ae5a088c95bfe0ed37407a6889a4bbaf84acd81ef2"
+    },
+    {
+      "current_panel": "1d",
+      "description": "Unique hits across four datasets",
+      "source_panel": "dataset_hit_counts",
+      "source_directory": "1d/source_code",
+      "current_export_script": "1d/unique_hit_counts_across_datasets_d.py",
+      "source_reproduction_output": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1d",
+      "original_export_script_sha256": "70ec6bc9d2ae62b5778afa0bf9449e8f980491c15323b3c3dba7f8c271abec12"
+    },
+    {
+      "current_panel": "1e",
+      "description": "Four-strain hit overlap",
+      "source_panel": "1e",
+      "source_directory": "1e/source_code",
+      "current_export_script": "1e/four_strain_antibacterial_hit_overlap_venn_e.py",
+      "source_reproduction_output": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1e",
+      "original_export_script_sha256": "3e36c4acba68f4ed75591d022bb87c4548793cb645593634cb2dd4ff92674c30"
+    },
+    {
+      "current_panel": "1h",
+      "description": "8K and CO-ADD chemical space",
+      "source_panel": "1g",
+      "source_directory": "1h/source_code",
+      "current_export_script": "1h/molecular_chemical_space_8k_coadd_tsne_h.py",
+      "source_reproduction_output": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1h",
+      "original_export_script_sha256": "ab813dceb07aa80e092d8e74f2e57aa9b277fe56977e8962b01ce46fb6f25d58"
+    },
+    {
+      "current_panel": "1i",
+      "description": "8K, Broad 39K, and ECBD chemical space",
+      "source_panel": "1f",
+      "source_directory": "1i/source_code",
+      "current_export_script": "1i/molecular_chemical_space_8k_broad39k_ecbd_tsne_i.py",
+      "source_reproduction_output": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/final_figure1_source_reproduction/1i",
+      "original_export_script_sha256": "d4481b5583b72d13d0a606855cb1e8f0a015c21d46736d8a785562b4d938c4de"
+    }
+  ],
+  "copied_source_files": [
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/__init__.py",
+      "file": "1a/source_code/shared/__init__.py",
+      "source_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91",
+      "copied_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/analysis.py",
+      "file": "1a/source_code/shared/analysis.py",
+      "source_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6",
+      "copied_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/rendering.py",
+      "file": "1a/source_code/shared/rendering.py",
+      "source_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb",
+      "copied_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/standalone_svg.py",
+      "file": "1a/source_code/shared/standalone_svg.py",
+      "source_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e",
+      "copied_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/unmasked_svg.py",
+      "file": "1a/source_code/shared/unmasked_svg.py",
+      "source_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376",
+      "copied_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/config.py",
+      "file": "1a/source_code/original_config.py",
+      "source_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9",
+      "copied_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/__init__.py",
+      "file": "1b/source_code/shared/__init__.py",
+      "source_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91",
+      "copied_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/analysis.py",
+      "file": "1b/source_code/shared/analysis.py",
+      "source_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6",
+      "copied_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/rendering.py",
+      "file": "1b/source_code/shared/rendering.py",
+      "source_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb",
+      "copied_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/standalone_svg.py",
+      "file": "1b/source_code/shared/standalone_svg.py",
+      "source_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e",
+      "copied_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/unmasked_svg.py",
+      "file": "1b/source_code/shared/unmasked_svg.py",
+      "source_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376",
+      "copied_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/figure1_insets.py",
+      "file": "1b/source_code/shared/figure1_insets.py",
+      "source_sha256": "59178fe81cb65f2f0897b5cc222b3dc1d1722090d21ea1ac16bab0fd1409fa37",
+      "copied_sha256": "59178fe81cb65f2f0897b5cc222b3dc1d1722090d21ea1ac16bab0fd1409fa37"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/1b/replicate_scatter_75_to_105_inset_coordinates.csv",
+      "file": "1b/source_code/saved_results/replicate_scatter_75_to_105_inset_coordinates.csv",
+      "source_sha256": "be44256f0fc622ac39f2f8d8f869bb3fe695f1de0a4bd1ff0ae7247871ef9f5f",
+      "copied_sha256": "be44256f0fc622ac39f2f8d8f869bb3fe695f1de0a4bd1ff0ae7247871ef9f5f"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/1b/inset_display_validation.json",
+      "file": "1b/source_code/saved_results/inset_display_validation.json",
+      "source_sha256": "3b47f3c148e1d94540b5d809d2af0f1561a04a491b2c4fecdde43fb28e805ed2",
+      "copied_sha256": "3b47f3c148e1d94540b5d809d2af0f1561a04a491b2c4fecdde43fb28e805ed2"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/config.py",
+      "file": "1b/source_code/original_config.py",
+      "source_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9",
+      "copied_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/__init__.py",
+      "file": "1c/source_code/shared/__init__.py",
+      "source_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91",
+      "copied_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/analysis.py",
+      "file": "1c/source_code/shared/analysis.py",
+      "source_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6",
+      "copied_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/rendering.py",
+      "file": "1c/source_code/shared/rendering.py",
+      "source_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb",
+      "copied_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/standalone_svg.py",
+      "file": "1c/source_code/shared/standalone_svg.py",
+      "source_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e",
+      "copied_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/unmasked_svg.py",
+      "file": "1c/source_code/shared/unmasked_svg.py",
+      "source_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376",
+      "copied_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/figure1_insets.py",
+      "file": "1c/source_code/shared/figure1_insets.py",
+      "source_sha256": "59178fe81cb65f2f0897b5cc222b3dc1d1722090d21ea1ac16bab0fd1409fa37",
+      "copied_sha256": "59178fe81cb65f2f0897b5cc222b3dc1d1722090d21ea1ac16bab0fd1409fa37"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/1b/replicate_scatter_75_to_105_inset_coordinates.csv",
+      "file": "1c/source_code/saved_results/replicate_scatter_75_to_105_inset_coordinates.csv",
+      "source_sha256": "be44256f0fc622ac39f2f8d8f869bb3fe695f1de0a4bd1ff0ae7247871ef9f5f",
+      "copied_sha256": "be44256f0fc622ac39f2f8d8f869bb3fe695f1de0a4bd1ff0ae7247871ef9f5f"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/1b/inset_display_validation.json",
+      "file": "1c/source_code/saved_results/inset_display_validation.json",
+      "source_sha256": "3b47f3c148e1d94540b5d809d2af0f1561a04a491b2c4fecdde43fb28e805ed2",
+      "copied_sha256": "3b47f3c148e1d94540b5d809d2af0f1561a04a491b2c4fecdde43fb28e805ed2"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/config.py",
+      "file": "1c/source_code/original_config.py",
+      "source_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9",
+      "copied_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/__init__.py",
+      "file": "1e/source_code/shared/__init__.py",
+      "source_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91",
+      "copied_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/analysis.py",
+      "file": "1e/source_code/shared/analysis.py",
+      "source_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6",
+      "copied_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/rendering.py",
+      "file": "1e/source_code/shared/rendering.py",
+      "source_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb",
+      "copied_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/standalone_svg.py",
+      "file": "1e/source_code/shared/standalone_svg.py",
+      "source_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e",
+      "copied_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/unmasked_svg.py",
+      "file": "1e/source_code/shared/unmasked_svg.py",
+      "source_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376",
+      "copied_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/config.py",
+      "file": "1e/source_code/original_config.py",
+      "source_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9",
+      "copied_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/__init__.py",
+      "file": "1h/source_code/shared/__init__.py",
+      "source_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91",
+      "copied_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/analysis.py",
+      "file": "1h/source_code/shared/analysis.py",
+      "source_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6",
+      "copied_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/rendering.py",
+      "file": "1h/source_code/shared/rendering.py",
+      "source_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb",
+      "copied_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/standalone_svg.py",
+      "file": "1h/source_code/shared/standalone_svg.py",
+      "source_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e",
+      "copied_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/unmasked_svg.py",
+      "file": "1h/source_code/shared/unmasked_svg.py",
+      "source_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376",
+      "copied_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/config.py",
+      "file": "1h/source_code/original_config.py",
+      "source_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9",
+      "copied_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/__init__.py",
+      "file": "1i/source_code/shared/__init__.py",
+      "source_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91",
+      "copied_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/analysis.py",
+      "file": "1i/source_code/shared/analysis.py",
+      "source_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6",
+      "copied_sha256": "45ccdc403ab93b56bbf066ced0fcab0d02c9df6fce05eec5e74adcd9a3b1b5e6"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/rendering.py",
+      "file": "1i/source_code/shared/rendering.py",
+      "source_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb",
+      "copied_sha256": "2c9a4c0da5da8191348e7487872bc3498931a8bf9c81913ec5a9110912a61bfb"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/standalone_svg.py",
+      "file": "1i/source_code/shared/standalone_svg.py",
+      "source_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e",
+      "copied_sha256": "baf6215f3100312e676a13161ac808baba52d5f7da8ee66bf3d350c2f489378e"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/shared/unmasked_svg.py",
+      "file": "1i/source_code/shared/unmasked_svg.py",
+      "source_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376",
+      "copied_sha256": "964f32b95adcbcd9c314baeca58c0162cd1a5f8536b537690d0c25db2032d376"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/config.py",
+      "file": "1i/source_code/original_config.py",
+      "source_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9",
+      "copied_sha256": "f0dc9fec7aaff557ec66640585ce154b844c2cfc0146ca339adc1a80c6d709c9"
+    },
+    {
+      "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts/shared/__init__.py",
+      "file": "1d/source_code/shared/__init__.py",
+      "source_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91",
+      "copied_sha256": "ff1a547e4de7467f54e4d6b877d10eb4a6910662032a8a7ad004d9b559ee9f91"
+    },
+    {
+      "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts/shared/figure1_current_analysis.py",
+      "file": "1d/source_code/shared/figure1_current_analysis.py",
+      "source_sha256": "d2295acacca96f73191cc1368698a859b9081cb75784d6dca4328f3873421654",
+      "copied_sha256": "d2295acacca96f73191cc1368698a859b9081cb75784d6dca4328f3873421654"
+    },
+    {
+      "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts/shared/figure1_properties.py",
+      "file": "1d/source_code/shared/figure1_properties.py",
+      "source_sha256": "eb74d30625d6aa268b251c8dfd2d84ac2dc4cde4f625c964aed7d7cfc9274ee1",
+      "copied_sha256": "eb74d30625d6aa268b251c8dfd2d84ac2dc4cde4f625c964aed7d7cfc9274ee1"
+    },
+    {
+      "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts/shared/figure1_amine_descriptor.py",
+      "file": "1d/source_code/shared/figure1_amine_descriptor.py",
+      "source_sha256": "20ff5c897422db3cc8a6f071f22fa07c1379c8f3959f462267e53ee7b4e5a5a1",
+      "copied_sha256": "20ff5c897422db3cc8a6f071f22fa07c1379c8f3959f462267e53ee7b4e5a5a1"
+    },
+    {
+      "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts/shared/figure1_inhibition.py",
+      "file": "1d/source_code/shared/figure1_inhibition.py",
+      "source_sha256": "468beeac8e98284ce4ccca93444b6f1e42e706b674e4a4bdd02c51f1da938aea",
+      "copied_sha256": "468beeac8e98284ce4ccca93444b6f1e42e706b674e4a4bdd02c51f1da938aea"
+    },
+    {
+      "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts/figure1_current_config.py",
+      "file": "1d/source_code/original_figure1_current_config.py",
+      "source_sha256": "5ce8822ec0c936292de3b6f479e6c144cd5ab1f4426f151238f0b9d8e0b349cc",
+      "copied_sha256": "5ce8822ec0c936292de3b6f479e6c144cd5ab1f4426f151238f0b9d8e0b349cc"
+    },
+    {
+      "source": "/Users/asselism/Documents/Codex/2026-09-21/please-create-an-html-file-that/outputs/methods/dataset_hit_counts/plot_unique_pseudomonas_hit_counts.py",
+      "file": "1d/source_code/original_dataset_hit_count_analysis.py",
+      "source_sha256": "3da1cdf84cd29d9e012ecb9e570d8f5f4d2e422207236768c1ffa6d4b7eb3856",
+      "copied_sha256": "3da1cdf84cd29d9e012ecb9e570d8f5f4d2e422207236768c1ffa6d4b7eb3856"
+    }
+  ],
+  "existing_readme_checksums": {
+    "1a/readme.md": "7b834a2fa9d20ac37546870b4c422d8f5d9a2217d3c90edbed62ff0a00e9d6a0",
+    "1b/readme.md": "ce2bab78eb87a89ce4e7ae260494c1366c91e22e0eea5851be003acf22d9f656",
+    "1c/readme.md": "9db79d238e413e8387d03342570fc091ae88e48e36896063fb2734269da3dbdb",
+    "1d/readme.md": "4e7eeeeb80369c2bd6a2c57e01f40cd63fad95495a9335a803658a2df71008e1",
+    "1e/readme.md": "90b3130cb6742e9ebf079fe2fd5e9ac6b122278a205bff25267bd27514460dc0",
+    "1h/readme.md": "60d0a1a4d17d980420d18b8cf26faef1d7a04a0bef724c105eedad940647d778",
+    "1i/readme.md": "afbb4a187d3e641a96f0b6fd968e66bae5d72b62e2cdbdbfdd9b432c83441bfa"
+  }
+}

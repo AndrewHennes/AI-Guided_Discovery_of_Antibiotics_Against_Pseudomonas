@@ -1,0 +1,135 @@
+{
+  "dataset_hit_counts": [
+    {
+      "Dataset": "8K",
+      "Strain": "WT",
+      "Unique_hit_structures": 8,
+      "Hit_records": 8
+    },
+    {
+      "Dataset": "8K",
+      "Strain": "Delta40",
+      "Unique_hit_structures": 5,
+      "Hit_records": 5
+    },
+    {
+      "Dataset": "8K",
+      "Strain": "Delta3",
+      "Unique_hit_structures": 39,
+      "Hit_records": 39
+    },
+    {
+      "Dataset": "8K",
+      "Strain": "Delta6",
+      "Unique_hit_structures": 124,
+      "Hit_records": 124
+    },
+    {
+      "Dataset": "39K",
+      "Strain": "WT",
+      "Unique_hit_structures": 8,
+      "Hit_records": 8
+    },
+    {
+      "Dataset": "ECBD",
+      "Strain": "WT",
+      "Unique_hit_structures": 1,
+      "Hit_records": 1
+    },
+    {
+      "Dataset": "COADD",
+      "Strain": "WT",
+      "Unique_hit_structures": 7,
+      "Hit_records": 7
+    },
+    {
+      "Dataset": "COADD",
+      "Strain": "Delta5",
+      "Unique_hit_structures": 75,
+      "Hit_records": 143
+    }
+  ],
+  "panel_f": {
+    "measured_counts": {
+      "WT": 7671,
+      "Delta40": 7985,
+      "Delta3": 7985,
+      "Delta6": 7985
+    },
+    "screen_n_annotation": 7994,
+    "density_table_matches_v025": true,
+    "published_artwork_preserved": true
+  },
+  "panel_g": {
+    "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_creation_scripts/shared/figure1_current/inputs/8K.csv.gz",
+    "source_sha256": "374d0e0f856ebb71791ed848e191a01abfe34cf8f6500b5602cae9ba040891c5",
+    "source_rows": 7997,
+    "unique_source_structures": 7985,
+    "group_counts": {
+      "WT": 8,
+      "Delta40": 5,
+      "Delta3": 39,
+      "Delta6": 124
+    },
+    "group_rules": {
+      "WT": "WT = 1",
+      "Delta40": "Delta40 = 1",
+      "Delta3": "Delta3 = 1",
+      "Delta6": "Delta6 = 1"
+    },
+    "unique_plotted_structures": 125,
+    "observations_per_property": 176,
+    "total_points": 528,
+    "group_membership_independently_checked": true,
+    "descriptor_values_checked_against_verified_table": 125,
+    "amine_functional_group_examples_checked": 33,
+    "axis_limits": {
+      "TPSA": [
+        -8,
+        220
+      ],
+      "Amine_count": [
+        -0.2,
+        3.25
+      ],
+      "logP": [
+        0,
+        8
+      ]
+    },
+    "points_outside_axes": 0,
+    "colors_RGB": {
+      "WT": [
+        0.07547,
+        0.65324,
+        0.31118
+      ],
+      "Delta40": [
+        0.97905,
+        0.6376,
+        0.11945
+      ],
+      "Delta3": [
+        0.75422,
+        0.23545,
+        0.17137
+      ],
+      "Delta6": [
+        0.66175,
+        0.37743,
+        0.65107
+      ]
+    },
+    "versions": {
+      "rdkit": "2025.09.5",
+      "matplotlib": "3.10.8",
+      "pandas": "2.3.1"
+    }
+  },
+  "input_checksums": {
+    "COADD.csv.gz": "04867308f18b413b84d598ea0508bc607d8b3285b3a91706e3734a72d05a132d",
+    "39K.csv.gz": "8483da018d04c0a29f4e395facdce5edd1eda34bd87d1a4bf7074b92e3b6f5ce",
+    "ECBD.csv.gz": "1ecf61076306b5c0cd8c523e660d961efffc07fb00df273d19743467ffba0d67",
+    "8K.csv.gz": "374d0e0f856ebb71791ed848e191a01abfe34cf8f6500b5602cae9ba040891c5"
+  }
+}

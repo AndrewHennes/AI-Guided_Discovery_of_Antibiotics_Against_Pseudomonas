@@ -1,0 +1,129 @@
+{
+  "a": {
+    "reference_dimensions": [
+      283,
+      1058,
+      3
+    ],
+    "svg_render_dimensions": [
+      283,
+      1058,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 0.6188332320243319,
+    "pixels_changed_over_20": 0.009405037840581937
+  },
+  "b": {
+    "reference_dimensions": [
+      918,
+      840,
+      3
+    ],
+    "svg_render_dimensions": [
+      918,
+      840,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 0.9815402704291594,
+    "pixels_changed_over_20": 0.017361759518622264
+  },
+  "c": {
+    "reference_dimensions": [
+      918,
+      230,
+      3
+    ],
+    "svg_render_dimensions": [
+      918,
+      230,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 0.9699693726121689,
+    "pixels_changed_over_20": 0.01617883868523255
+  },
+  "d": {
+    "reference_dimensions": [
+      308,
+      580,
+      3
+    ],
+    "svg_render_dimensions": [
+      308,
+      580,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 0.9104605164949993,
+    "pixels_changed_over_20": 0.014716748768472907
+  },
+  "e": {
+    "reference_dimensions": [
+      308,
+      551,
+      3
+    ],
+    "svg_render_dimensions": [
+      308,
+      551,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 0.6942984420298395,
+    "pixels_changed_over_20": 0.011319442807646074
+  },
+  "f": {
+    "reference_dimensions": [
+      418,
+      460,
+      3
+    ],
+    "svg_render_dimensions": [
+      418,
+      460,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 2.7105003120449345,
+    "pixels_changed_over_20": 0.05215311004784689,
+    "svg_renderer": "CairoSVG 2.8.2, preserves dashed lines"
+  },
+  "g": {
+    "reference_dimensions": [
+      418,
+      671,
+      3
+    ],
+    "svg_render_dimensions": [
+      418,
+      671,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 1.3832849635265512,
+    "pixels_changed_over_20": 0.027699142178709203
+  },
+  "h": {
+    "reference_dimensions": [
+      629,
+      635,
+      3
+    ],
+    "svg_render_dimensions": [
+      629,
+      635,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 0.5368292794879177,
+    "pixels_changed_over_20": 0.003477585969480365
+  },
+  "i": {
+    "reference_dimensions": [
+      629,
+      563,
+      3
+    ],
+    "svg_render_dimensions": [
+      629,
+      563,
+      3
+    ],
+    "mean_absolute_channel_difference_0_255": 0.7638031930164414,
+    "pixels_changed_over_20": 0.005427431401728759
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "datasets": {
+    "8K": {
+      "any_strain": 125,
+      "WT": 8,
+      "Delta40": 5,
+      "Delta3": 39,
+      "Delta6": 124
+    },
+    "39K": {
+      "any_strain": 17,
+      "WT": 17
+    },
+    "ECBD": {
+      "any_strain": 3,
+      "WT": 3
+    },
+    "COADD": {
+      "any_strain": 88,
+      "WT": 14,
+      "Delta5": 75
+    },
+    "PurchasedBroad": {
+      "any_strain": 53,
+      "WT": 5,
+      "Delta6": 53
+    }
+  },
+  "dataset_molecule_entries": 286,
+  "globally_distinct_structures": 285,
+  "wt_dataset_entries": 47,
+  "globally_distinct_wt_structures": 46,
+  "missing_structure_drawings": 0,
+  "html_bytes": 4594372
+}

@@ -1,0 +1,66 @@
+{
+  "source": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/datasets/8K_Dataset/Broad_8K_Antibiotic_Activity_Dataset_Filtered_.csv",
+  "source_sha256": "2fac968e99dd09866f124376794c9628f4654441bcefe051dd0dc796e28c1c39",
+  "source_rows": 7997,
+  "unique_source_structures": 7985,
+  "group_counts": {
+    "WT": 8,
+    "Delta40": 5,
+    "Delta3": 39,
+    "Delta6": 124
+  },
+  "group_rules": {
+    "WT": "WT = 1",
+    "Delta40": "Delta40 = 1",
+    "Delta3": "Delta3 = 1",
+    "Delta6": "Delta6 = 1"
+  },
+  "unique_plotted_structures": 125,
+  "observations_per_property": 176,
+  "total_points": 528,
+  "group_membership_independently_checked": true,
+  "descriptor_values_checked_against_verified_table": 124,
+  "amine_functional_group_examples_checked": 33,
+  "axis_limits": {
+    "TPSA": [
+      -8,
+      220
+    ],
+    "Amine_count": [
+      -0.2,
+      3.25
+    ],
+    "logP": [
+      0,
+      8
+    ]
+  },
+  "points_outside_axes": 0,
+  "colors_RGB": {
+    "WT": [
+      0.07547,
+      0.65324,
+      0.31118
+    ],
+    "Delta40": [
+      0.97905,
+      0.6376,
+      0.11945
+    ],
+    "Delta3": [
+      0.75422,
+      0.23545,
+      0.17137
+    ],
+    "Delta6": [
+      0.66175,
+      0.37743,
+      0.65107
+    ]
+  },
+  "versions": {
+    "rdkit": "2025.09.1",
+    "matplotlib": "3.10.7",
+    "pandas": "2.3.3"
+  }
+}

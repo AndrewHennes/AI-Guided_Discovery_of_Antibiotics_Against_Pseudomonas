@@ -1,0 +1,158 @@
+{
+  "layout_reference": "Figure1_v025_all_hits_TPSA_amines_LogP.ai",
+  "panel_order": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+  ],
+  "preserved_artwork_pixel_identical": {
+    "panel_f": true,
+    "left_panels": true,
+    "chemical_space_maps": true
+  },
+  "group_counts": {
+    "WT": 8,
+    "Delta40": 5,
+    "Delta3": 39,
+    "Delta6": 124
+  },
+  "panel_f_density_table_matches_reference": true,
+  "panel_g_points": 528,
+  "standalone_panels": [
+    {
+      "elements": 451,
+      "paths": 195,
+      "uses": 247,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "a",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1a (Screening workflow).svg",
+      "svg_sha256": "6b6df2dad1f9c6da6965eb5baf6f3a4478847f0f4010e8821d009c8886b9a383"
+    },
+    {
+      "elements": 63634,
+      "paths": 30622,
+      "uses": 1679,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "b",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1b (Replicate correlations).svg",
+      "svg_sha256": "2278cedaab52826241294e57652118b500b7138e2caf1721109f5aa97d823230"
+    },
+    {
+      "elements": 534,
+      "paths": 244,
+      "uses": 112,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "c",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1c (Replicate correlation insets).svg",
+      "svg_sha256": "b513ea60a76e0183980a021cb5b3e9bc0c12db2da40fa7bd0666136fe9eb6694"
+    },
+    {
+      "elements": 197,
+      "paths": 83,
+      "uses": 108,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "d",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1d (Dataset hit counts).svg",
+      "svg_sha256": "5702c8103ee1c3a5c684fd2016fe3199eb97e8af581b5861b1b254bb3c69827d"
+    },
+    {
+      "elements": 193,
+      "paths": 59,
+      "uses": 124,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "e",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1e (Hit overlap).svg",
+      "svg_sha256": "b79016dfaa7c11ffe6d83493c3bf4f53c88f84aecb958a27d20b710d402f8838"
+    },
+    {
+      "elements": 415,
+      "paths": 116,
+      "uses": 269,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 9,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "f",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1f (Growth inhibition distributions).svg",
+      "svg_sha256": "966e7e28ef5271096fc12c4bc4419dfa649032bd11073f25cf7cb6d8b592c885"
+    },
+    {
+      "elements": 1387,
+      "paths": 173,
+      "uses": 1205,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "g",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1g (TPSA amines LogP).svg",
+      "svg_sha256": "76625448698e91536d1c503588519dc9198c524a6f710777e293232b3fc6b5c1"
+    },
+    {
+      "elements": 213879,
+      "paths": 106572,
+      "uses": 467,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "h",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1h (8K COADD chemical space).svg",
+      "svg_sha256": "7f181d60b7d302f7d009c3e5fdeaecf75b58f6988aca8ecaa8b4ee51ada36597"
+    },
+    {
+      "elements": 292430,
+      "paths": 143737,
+      "uses": 2561,
+      "embedded_images": 0,
+      "masks": 0,
+      "clipping_paths": 0,
+      "external_references": 0,
+      "text_as_vector_outlines": true,
+      "panel": "i",
+      "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1i (8K Broad39K ECBD chemical space).svg",
+      "svg_sha256": "d7c3ef71fb766537f3e9853d1e7c6b97a39fbdaa1e9c3a1e2873e5b000de877e"
+    }
+  ],
+  "full_figure": {
+    "elements": 1396481,
+    "paths": 276813,
+    "uses": 287386,
+    "embedded_images": 0,
+    "masks": 0,
+    "clipping_paths": 273902,
+    "external_references": 0,
+    "text_as_vector_outlines": true,
+    "publication_file": "/Users/asselism/Desktop/Collins_Lab/Repositories/AI-Guided_Antipseudomonal_Discovery/AI-Guided_Antipseudomonal_Discovery/figures/figure_svg_files/Figure 1 (Complete figure).svg",
+    "svg_sha256": "dbd3466b384eb7ff0cf766940856f9ecdb8e3e990004898de6ab0cfe9efb143f"
+  }
+}
